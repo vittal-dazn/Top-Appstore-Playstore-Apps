@@ -1,0 +1,231 @@
+:root {
+  --bg: #f4f5f7;
+  --panel: #ffffff;
+  --ink: #14181f;
+  --muted: #6b7280;
+  --line: #e5e7eb;
+  --accent: #f8f800; /* DAZN yellow */
+  --accent-ink: #0b0d10;
+  --ios: #0a84ff;
+  --android: #34a853;
+  --star: #f5a623;
+  --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 1px 3px rgba(16, 24, 40, .1);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.4;
+}
+
+/* Header */
+.site-header {
+  background: var(--accent-ink);
+  color: #fff;
+  padding: 20px 24px 22px;
+}
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand-mark {
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 800;
+  letter-spacing: .5px;
+  padding: 4px 8px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+.site-header h1 { font-size: 20px; margin: 0; font-weight: 700; }
+.tagline { margin: 8px 0 0; color: #cbd2dc; font-size: 14px; }
+.tagline strong { color: var(--accent); }
+
+/* Controls */
+.controls {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: var(--panel);
+  border-bottom: 1px solid var(--line);
+  padding: 14px 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px 28px;
+  align-items: flex-start;
+}
+.control-group { display: flex; flex-direction: column; gap: 8px; }
+.control-group.countries { flex: 1 1 420px; }
+.control-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .8px;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+/* Store toggle */
+.store-toggle {
+  display: inline-flex;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fafafa;
+}
+.store-btn {
+  border: 0;
+  background: transparent;
+  padding: 8px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--muted);
+  cursor: pointer;
+  border-right: 1px solid var(--line);
+}
+.store-btn:last-child { border-right: 0; }
+.store-btn.is-active { background: var(--accent-ink); color: #fff; }
+
+/* Country checkboxes */
+.country-checks { display: flex; flex-wrap: wrap; gap: 8px; }
+.country-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 13px;
+  cursor: pointer;
+  user-select: none;
+  background: #fff;
+  transition: background .12s, border-color .12s;
+}
+.country-chip:hover { border-color: #c7ccd4; }
+.country-chip input { display: none; }
+.country-chip .flag { font-size: 15px; line-height: 1; }
+.country-chip.is-checked {
+  background: var(--accent-ink);
+  border-color: var(--accent-ink);
+  color: #fff;
+}
+
+.updated { width: 100%; margin: 2px 0 0; font-size: 12px; color: var(--muted); }
+
+/* Columns */
+.columns {
+  display: flex;
+  gap: 16px;
+  padding: 20px 24px 40px;
+  overflow-x: auto;
+  align-items: flex-start;
+}
+.country-col {
+  flex: 0 0 340px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+.col-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 14px;
+  min-height: 52px;
+  border-bottom: 1px solid var(--line);
+  flex-wrap: nowrap;
+}
+.col-head .flag { font-size: 20px; flex: none; }
+.col-head .cname {
+  font-weight: 700;
+  font-size: 15px;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.badge {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 999px;
+  letter-spacing: .3px;
+  flex: none;
+  white-space: nowrap;
+}
+.badge.store-ios { background: rgba(10,132,255,.12); color: var(--ios); }
+.badge.store-android { background: rgba(52,168,83,.14); color: var(--android); }
+.badge.cat { background: #eef0f3; color: var(--muted); margin-left: auto; }
+
+/* Store sub-section inside a column (used in "Both" mode) */
+.store-section + .store-section { border-top: 8px solid var(--bg); }
+.store-section-head {
+  display: flex; align-items: center; gap: 8px;
+  padding: 0 14px;
+  min-height: 34px;
+  font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px;
+  color: var(--muted);
+}
+
+/* Rows */
+.app-list { list-style: none; margin: 0; padding: 4px 0; }
+.app-row {
+  display: grid;
+  /* minmax(0, 1fr): a grid track's implicit min-width is `auto` (= content
+     size), which blocks shrinking and defeats text-overflow: ellipsis.
+     minmax(0, 1fr) lets the meta column shrink so names truncate cleanly. */
+  grid-template-columns: 26px 44px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px;
+  padding: 0 14px;
+  min-height: 62px;
+  text-decoration: none;
+  color: inherit;
+}
+.app-row:hover { background: #f8f9fb; }
+.rank { font-weight: 700; color: var(--muted); text-align: center; font-size: 13px; }
+.app-icon {
+  width: 44px; height: 44px; border-radius: 10px;
+  background: #eef0f3; object-fit: cover; display: block;
+  flex: none;
+}
+.app-meta { min-width: 0; display: block; }
+.app-name {
+  display: block;
+  font-size: 14px; font-weight: 600;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.app-dev {
+  display: block;
+  font-size: 12px; color: var(--muted);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.app-sub { display: flex; align-items: center; gap: 10px; margin-top: 3px; font-size: 12px; color: var(--muted); }
+.rating { display: inline-flex; align-items: center; gap: 3px; }
+.rating .star { color: var(--star); }
+.price-tag { color: var(--muted); }
+
+.right { text-align: right; }
+.store-mini {
+  font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 5px;
+}
+.store-mini.ios { background: rgba(10,132,255,.12); color: var(--ios); }
+.store-mini.android { background: rgba(52,168,83,.14); color: var(--android); }
+
+.empty { padding: 24px 14px; color: var(--muted); font-size: 13px; text-align: center; }
+
+/* Footer */
+.site-footer {
+  padding: 16px 24px 40px;
+  color: var(--muted);
+  font-size: 12px;
+  max-width: 900px;
+}
+
+.placeholder {
+  padding: 40px 24px;
+  color: var(--muted);
+  font-size: 14px;
+}

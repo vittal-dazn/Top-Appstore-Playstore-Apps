@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(node -e \"const d=require\\('./public/data/it.json'\\); console.log\\('IT keys:',Object.keys\\(d\\)\\); console.log\\('ios[0]:',JSON.stringify\\(d.ios[0]\\)\\); console.log\\('android[0]:',JSON.stringify\\(d.android[0]\\)\\); const idx=require\\('./public/data/index.json'\\); console.log\\('index countries:',idx.countries.length,'category:',idx.category\\);\")"
+    ]
+  }
+}

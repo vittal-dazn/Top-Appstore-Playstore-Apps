@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DAZN Sports App Charts — Top 10 by Country</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark">DAZN</span>
+      <h1>Sports App Charts</h1>
+    </div>
+    <p class="tagline">Top 10 <strong>Sports</strong> apps on the App Store &amp; Google Play, by DAZN market.</p>
+  </header>
+
+  <section class="controls">
+    <div class="control-group" role="group" aria-label="Store">
+      <span class="control-label">Store</span>
+      <div class="store-toggle" id="store-toggle">
+        <button type="button" class="store-btn" data-store="ios">App Store</button>
+        <button type="button" class="store-btn" data-store="android">Google Play</button>
+        <button type="button" class="store-btn is-active" data-store="both">Both</button>
+      </div>
+    </div>
+
+    <div class="control-group countries" role="group" aria-label="Countries">
+      <span class="control-label">Countries</span>
+      <div class="country-checks" id="country-checks"><!-- checkboxes injected --></div>
+    </div>
+
+    <p class="updated" id="updated"></p>
+  </section>
+
+  <main id="columns" class="columns" aria-live="polite"><!-- country columns injected --></main>
+
+  <footer class="site-footer">
+    <p>Data: Apple iTunes RSS (Sports, genre 6004) &amp; Google Play (SPORTS, Top Free). The numeric aggregator "score" from paid tools isn't available here — star ratings are shown instead.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
