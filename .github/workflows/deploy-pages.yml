@@ -1,0 +1,46 @@
+name: Deploy to GitHub Pages
+
+on:
+  # Deploy on pushes to main (site or data changes committed directly)
+  push:
+    branches: [main]
+  # Deploy after the data-refresh workflow finishes (bot pushes don't
+  # trigger `push` events, so we chain off the workflow run instead)
+  workflow_run:
+    workflows: ["Refresh app-chart data"]
+    types: [completed]
+  # Allow manual deploys from the Actions tab
+  workflow_dispatch: {}
+
+# Grant the token permission to publish to Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one concurrent deploy; don't cancel an in-progress one
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
