@@ -1,6 +1,6 @@
 # Sports App Charts
 
-A static web page that shows the **top 10 Sports apps** on both the **iOS App Store** and **Google Play**, broken down by country. Pick countries with checkboxes and switch between stores — laid out as ranked columns per country.
+A static web page that shows the **top Sports apps** on both the **iOS App Store** and **Google Play**, broken down by country. Pick countries with checkboxes, switch between stores, and choose how many to show (**Top 10 / 50 / 100**) — laid out as ranked columns per country.
 
 ![Country columns of ranked Sports apps](docs/preview.png)
 
@@ -29,7 +29,7 @@ Edit `scripts/fetch-data.mjs`:
 
 - `COUNTRIES` — the markets shown as checkboxes.
 - `CATEGORY` / `APPLE_GENRE_SPORTS` / `gplay.category.SPORTS` — the category (currently Sports).
-- `LIMIT` — apps per store per country (default 10).
+- `MAX_APPS` — apps fetched per store per country (default 100; the UI's Show dropdown displays the top 10 / 50 / 100 of these).
 
 ## Data shape
 

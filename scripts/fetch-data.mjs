@@ -1,6 +1,6 @@
 // Build-time data generation for the Sports App Charts static site.
 //
-// Fetches the top 10 free Sports apps per country from:
+// Fetches the top free Sports apps (up to MAX_APPS) per country from:
 //   - iOS  : Apple iTunes RSS feed (genre 6004 = Sports) + iTunes Lookup for ratings
 //   - Android: google-play-scraper (category SPORTS, collection TOP_FREE)
 //
@@ -20,7 +20,8 @@ const DATA_DIR = join(__dirname, "..", "public", "data");
 
 const CATEGORY = "Sports";
 const APPLE_GENRE_SPORTS = 6004; // iOS App Store genre id for Sports
-const LIMIT = 10;
+// Fetch up to this many apps per store so the UI can show Top 10 / 50 / 100.
+const MAX_APPS = 100;
 
 // Markets. `code` is the 2-letter store storefront (UK = gb for both stores).
 const COUNTRIES = [
@@ -71,7 +72,7 @@ async function fetchIosRatings(appIds, country) {
 
 async function fetchIos(country) {
   try {
-    const url = `https://itunes.apple.com/${country}/rss/topfreeapplications/limit=${LIMIT}/genre=${APPLE_GENRE_SPORTS}/json`;
+    const url = `https://itunes.apple.com/${country}/rss/topfreeapplications/limit=${MAX_APPS}/genre=${APPLE_GENRE_SPORTS}/json`;
     const res = await fetch(url);
     if (!res.ok) throw new Error(`RSS HTTP ${res.status}`);
     const data = await res.json();
@@ -119,9 +120,9 @@ async function fetchAndroid(country) {
       collection: gplay.collection.TOP_FREE,
       country,
       lang: "en",
-      num: LIMIT,
+      num: MAX_APPS,
     });
-    return results.slice(0, LIMIT).map((a, i) => ({
+    return results.slice(0, MAX_APPS).map((a, i) => ({
       rank: i + 1,
       name: a.title ?? "Unknown",
       developer: a.developer ?? "",

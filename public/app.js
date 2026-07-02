@@ -1,13 +1,20 @@
 "use strict";
 
-const STORAGE_KEYS = { countries: "sports-charts-countries", store: "sports-charts-store" };
+const STORAGE_KEYS = {
+  countries: "sports-charts-countries",
+  store: "sports-charts-store",
+  count: "sports-charts-count",
+};
 const DEFAULT_COUNTRIES = ["es", "it", "jp"]; // matches the reference screenshot
 const DEFAULT_STORE = "both";
+const COUNT_OPTIONS = [10, 50, 100];
+const DEFAULT_COUNT = 10;
 
 const state = {
   countries: [], // [{code,name,flag}]
   selected: new Set(),
   store: DEFAULT_STORE, // "ios" | "android" | "both"
+  count: DEFAULT_COUNT, // 10 | 50 | 100
   cache: new Map(), // code -> country data JSON
 };
 
@@ -16,6 +23,7 @@ const els = {
   columns: document.getElementById("columns"),
   updated: document.getElementById("updated"),
   storeToggle: document.getElementById("store-toggle"),
+  countSelect: document.getElementById("count-select"),
 };
 
 // --- init ------------------------------------------------------------------
@@ -42,6 +50,7 @@ async function init() {
   }
 
   renderStoreToggle();
+  renderCountSelect();
   renderChecks();
   render();
 }
@@ -53,11 +62,14 @@ function restorePrefs() {
   } catch (_) {}
   const store = localStorage.getItem(STORAGE_KEYS.store);
   if (store === "ios" || store === "android" || store === "both") state.store = store;
+  const count = parseInt(localStorage.getItem(STORAGE_KEYS.count) || "", 10);
+  if (COUNT_OPTIONS.includes(count)) state.count = count;
 }
 
 function savePrefs() {
   localStorage.setItem(STORAGE_KEYS.countries, JSON.stringify([...state.selected]));
   localStorage.setItem(STORAGE_KEYS.store, state.store);
+  localStorage.setItem(STORAGE_KEYS.count, String(state.count));
 }
 
 // --- controls --------------------------------------------------------------
@@ -73,6 +85,16 @@ function renderStoreToggle() {
     els.storeToggle.querySelectorAll(".store-btn").forEach((b) =>
       b.classList.toggle("is-active", b === btn)
     );
+    savePrefs();
+    render();
+  });
+}
+
+function renderCountSelect() {
+  els.countSelect.value = String(state.count);
+  els.countSelect.addEventListener("change", (e) => {
+    const val = parseInt(e.target.value, 10);
+    state.count = COUNT_OPTIONS.includes(val) ? val : DEFAULT_COUNT;
     savePrefs();
     render();
   });
@@ -149,11 +171,13 @@ function buildColumn(data) {
       <span class="badge cat">${data.category || "Sports"}</span>
     </div>`;
 
+  const limit = (apps) => (Array.isArray(apps) ? apps.slice(0, state.count) : apps);
+
   if (state.store === "both") {
-    col.appendChild(buildStoreSection("ios", "App Store", data.ios));
-    col.appendChild(buildStoreSection("android", "Google Play", data.android));
+    col.appendChild(buildStoreSection("ios", "App Store", limit(data.ios)));
+    col.appendChild(buildStoreSection("android", "Google Play", limit(data.android)));
   } else {
-    col.appendChild(buildList(data[state.store], state.store, false));
+    col.appendChild(buildList(limit(data[state.store]), state.store, false));
   }
   return col;
 }

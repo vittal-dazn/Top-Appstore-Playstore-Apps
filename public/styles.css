@@ -86,6 +86,24 @@ body {
 .store-btn:last-child { border-right: 0; }
 .store-btn.is-active { background: var(--accent-ink); color: #fff; }
 
+/* Count selector */
+.count-select {
+  appearance: none;
+  -webkit-appearance: none;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fafafa
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%236b7280' d='M2 4l4 4 4-4z'/%3E%3C/svg%3E")
+    no-repeat right 10px center;
+  padding: 8px 30px 8px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+  cursor: pointer;
+}
+.count-select:hover { border-color: #c7ccd4; }
+.count-select:focus-visible { outline: 2px solid var(--accent-ink); outline-offset: 1px; }
+
 /* Country checkboxes */
 .country-checks { display: flex; flex-wrap: wrap; gap: 8px; }
 .country-chip {
