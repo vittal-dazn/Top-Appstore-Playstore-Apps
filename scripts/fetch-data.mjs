@@ -1,4 +1,4 @@
-// Build-time data generation for the DAZN Sports App Charts static site.
+// Build-time data generation for the Sports App Charts static site.
 //
 // Fetches the top 10 free Sports apps per country from:
 //   - iOS  : Apple iTunes RSS feed (genre 6004 = Sports) + iTunes Lookup for ratings
@@ -22,7 +22,7 @@ const CATEGORY = "Sports";
 const APPLE_GENRE_SPORTS = 6004; // iOS App Store genre id for Sports
 const LIMIT = 10;
 
-// DAZN markets. `code` is the 2-letter store storefront (UK = gb for both stores).
+// Markets. `code` is the 2-letter store storefront (UK = gb for both stores).
 const COUNTRIES = [
   { code: "us", name: "United States", flag: "🇺🇸" },
   { code: "ca", name: "Canada", flag: "🇨🇦" },

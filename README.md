@@ -1,6 +1,6 @@
-# DAZN Sports App Charts
+# Sports App Charts
 
-A static web page that shows the **top 10 Sports apps** on both the **iOS App Store** and **Google Play**, broken down by DAZN market. Pick countries with checkboxes and switch between stores — laid out as ranked columns per country.
+A static web page that shows the **top 10 Sports apps** on both the **iOS App Store** and **Google Play**, broken down by country. Pick countries with checkboxes and switch between stores — laid out as ranked columns per country.
 
 ![Country columns of ranked Sports apps](docs/preview.png)
 

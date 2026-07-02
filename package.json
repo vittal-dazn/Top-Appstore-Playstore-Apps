@@ -1,7 +1,7 @@
 {
-  "name": "dazn-app-charts",
+  "name": "sports-app-charts",
   "version": "1.0.0",
-  "description": "Top 10 Sports apps on iOS App Store and Google Play, per DAZN market. Static site with build-time data generation.",
+  "description": "Top 10 Sports apps on iOS App Store and Google Play, per country. Static site with build-time data generation.",
   "type": "module",
   "private": true,
   "scripts": {

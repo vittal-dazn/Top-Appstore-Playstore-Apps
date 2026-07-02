@@ -1,6 +1,6 @@
 "use strict";
 
-const STORAGE_KEYS = { countries: "dazn-charts-countries", store: "dazn-charts-store" };
+const STORAGE_KEYS = { countries: "sports-charts-countries", store: "sports-charts-store" };
 const DEFAULT_COUNTRIES = ["es", "it", "jp"]; // matches the reference screenshot
 const DEFAULT_STORE = "both";
 
