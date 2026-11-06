@@ -3,7 +3,7 @@
   "name": "Portugal",
   "flag": "🇵🇹",
   "category": "Sports",
-  "generatedAt": "2026-11-05T14:15:16.434Z",
+  "generatedAt": "2026-11-06T13:54:54.902Z",
   "ios": [
     {
       "rank": 1,
@@ -25,15 +25,6 @@
     },
     {
       "rank": 3,
-      "name": "FC Porto Hospitality",
-      "developer": "FC Porto",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/16/1b/f8161bd1-6f71-631c-7fed-8fc9a6e86255/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "rating": 3.6,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/fc-porto-hospitality/id6758044534?uo=2"
-    },
-    {
-      "rank": 4,
       "name": "SL Benfica Official App",
       "developer": "Sport Lisboa e Benfica Multimédia",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/8d/fb/f78dfb52-c2d7-2a2b-92a3-396764dcb405/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/100x100bb.png",
@@ -42,7 +33,7 @@
       "url": "https://apps.apple.com/pt/app/sl-benfica-official-app/id6475585347?uo=2"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Flashscore: Resultados ao vivo",
       "developer": "Livesport s.r.o.",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/9b/4c/9e9b4c94-9ae9-426d-c18b-34e5ae84ccd5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
@@ -51,13 +42,22 @@
       "url": "https://apps.apple.com/pt/app/flashscore-resultados-ao-vivo/id766443283?uo=2"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "bwin Apostas Desporto e Casino",
       "developer": "Entain",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/5e/f6/705ef6a8-9ee6-c3ea-0e67-1f2bf744a0f3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "rating": 4.6,
       "price": "Free",
       "url": "https://apps.apple.com/pt/app/bwin-apostas-desporto-e-casino/id1266243671?uo=2"
+    },
+    {
+      "rank": 6,
+      "name": "FC Porto Hospitality",
+      "developer": "FC Porto",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/16/1b/f8161bd1-6f71-631c-7fed-8fc9a6e86255/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rating": 3.7,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/fc-porto-hospitality/id6758044534?uo=2"
     },
     {
       "rank": 7,
@@ -70,12 +70,12 @@
     },
     {
       "rank": 8,
-      "name": "ESC Online - Casino e Apostas",
-      "developer": "Gaming1 SPRL",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/e6/9b/b7e69be3-704d-c75e-8872-d15d3f65edc9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 3.2,
+      "name": "TiePlayer - App Ténis e Padel",
+      "developer": "Tiesports",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/9a/6b/1a9a6bbc-113a-b183-a437-9f60ea7c384e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "rating": 3.9,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/esc-online-casino-e-apostas/id6467654923?uo=2"
+      "url": "https://apps.apple.com/pt/app/tieplayer-app-t%C3%A9nis-e-padel/id1453669679?uo=2"
     },
     {
       "rank": 9,
@@ -88,6 +88,15 @@
     },
     {
       "rank": 10,
+      "name": "ESC Online - Casino e Apostas",
+      "developer": "Gaming1 SPRL",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/e6/9b/b7e69be3-704d-c75e-8872-d15d3f65edc9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 3.2,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/esc-online-casino-e-apostas/id6467654923?uo=2"
+    },
+    {
+      "rank": 11,
       "name": "Sofascore: Os meus resultados",
       "developer": "Sofascore",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/3c/3d/1f3c3d0a-ea47-d065-4b53-8a3869fe3796/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
@@ -96,88 +105,7 @@
       "url": "https://apps.apple.com/pt/app/sofascore-os-meus-resultados/id1176147574?uo=2"
     },
     {
-      "rank": 11,
-      "name": "TiePlayer - App Ténis e Padel",
-      "developer": "Tiesports",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/9a/6b/1a9a6bbc-113a-b183-a437-9f60ea7c384e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "rating": 3.9,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/tieplayer-app-t%C3%A9nis-e-padel/id1453669679?uo=2"
-    },
-    {
       "rank": 12,
-      "name": "App Oficial FC Porto",
-      "developer": "FC Porto",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ca/83/45ca8321-f7b7-c0f3-d2f2-dcb64092155f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "rating": 4.7,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/app-oficial-fc-porto/id1022045351?uo=2"
-    },
-    {
-      "rank": 13,
-      "name": "Joga+",
-      "developer": "Federação Portuguesa de Futebol",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/5c/48/785c4854-9e0c-e9a3-51f9-79577ec75575/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "rating": 2.5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/joga/id6447292590?uo=2"
-    },
-    {
-      "rank": 14,
-      "name": "Casino Portugal",
-      "developer": "SFPOnline",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/f3/04/daf304e3-b777-361b-5bd4-3a553c9d9588/AppIconNew-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-      "rating": 2.6,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/casino-portugal/id1353477331?uo=2"
-    },
-    {
-      "rank": 15,
-      "name": "Placard.pt Apostas",
-      "developer": "SAS APOSTAS SOCIAIS, JOGOS E APOSTAS ONLINE, S.A.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/b9/b5/90b9b5ca-750d-fba3-9354-476c9167e4b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 2.2,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/placard-pt-apostas/id1390775953?uo=2"
-    },
-    {
-      "rank": 16,
-      "name": "Playtomic - Play padel",
-      "developer": "Playtomic S.L.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/dc/d7/9ddcd73b-b9b9-f45e-e969-3e7898cb109e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 4.8,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/playtomic-play-padel/id1242321076?uo=2"
-    },
-    {
-      "rank": 17,
-      "name": "HryFine",
-      "developer": "Shenzhen United Power Technology Co., Ltd.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/07/e3/db07e320-61d1-81d3-e9d6-62082f64f385/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "rating": 2.3,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/hryfine/id1447215452?uo=2"
-    },
-    {
-      "rank": 18,
-      "name": "sport tv",
-      "developer": "SPORT TV PORTUGAL, S.A",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/10/70/b910704b-e1c3-6855-723f-75122bd8aa11/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "rating": 4.5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/sport-tv/id1462821613?uo=2"
-    },
-    {
-      "rank": 19,
-      "name": "iOrienteering",
-      "developer": "Richard Patton",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/20/73/b92073f3-3fdf-5132-abec-5d5c94b74d5e/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "rating": 2.2,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/iorienteering/id662759860?uo=2"
-    },
-    {
-      "rank": 20,
       "name": "Maratona do Porto",
       "developer": "Runporto.com Organizacao Eventos Desportivos Lda",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/5c/ad/b95cadac-fb6d-8737-a3a8-45840ddc2c89/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
@@ -186,22 +114,94 @@
       "url": "https://apps.apple.com/pt/app/maratona-do-porto/id1279305779?uo=2"
     },
     {
-      "rank": 21,
-      "name": "Oficial UEFA Champions League",
-      "developer": "UEFA",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/2c/94/512c9457-e9f8-ead2-4b10-ce7c9bbc2f07/AppIcon-0-0-1x_U007ephone-0-7-0-0-85-220.png/100x100bb.png",
+      "rank": 13,
+      "name": "Playtomic - Play padel",
+      "developer": "Playtomic S.L.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/dc/d7/9ddcd73b-b9b9-f45e-e969-3e7898cb109e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "rating": 4.8,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/oficial-uefa-champions-league/id1024506667?uo=2"
+      "url": "https://apps.apple.com/pt/app/playtomic-play-padel/id1242321076?uo=2"
+    },
+    {
+      "rank": 14,
+      "name": "iOrienteering",
+      "developer": "Richard Patton",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/20/73/b92073f3-3fdf-5132-abec-5d5c94b74d5e/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+      "rating": 2.2,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/iorienteering/id662759860?uo=2"
+    },
+    {
+      "rank": 15,
+      "name": "Joga+",
+      "developer": "Federação Portuguesa de Futebol",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/5c/48/785c4854-9e0c-e9a3-51f9-79577ec75575/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+      "rating": 2.5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/joga/id6447292590?uo=2"
+    },
+    {
+      "rank": 16,
+      "name": "Casino Portugal",
+      "developer": "SFPOnline",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/f3/04/daf304e3-b777-361b-5bd4-3a553c9d9588/AppIconNew-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
+      "rating": 2.6,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/casino-portugal/id1353477331?uo=2"
+    },
+    {
+      "rank": 17,
+      "name": "App Oficial FC Porto",
+      "developer": "FC Porto",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ca/83/45ca8321-f7b7-c0f3-d2f2-dcb64092155f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "rating": 4.7,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/app-oficial-fc-porto/id1022045351?uo=2"
+    },
+    {
+      "rank": 18,
+      "name": "Placard.pt Apostas",
+      "developer": "SAS APOSTAS SOCIAIS, JOGOS E APOSTAS ONLINE, S.A.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/b9/b5/90b9b5ca-750d-fba3-9354-476c9167e4b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 2.2,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/placard-pt-apostas/id1390775953?uo=2"
+    },
+    {
+      "rank": 19,
+      "name": "sport tv",
+      "developer": "SPORT TV PORTUGAL, S.A",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/10/70/b910704b-e1c3-6855-723f-75122bd8aa11/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "rating": 4.5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/sport-tv/id1462821613?uo=2"
+    },
+    {
+      "rank": 20,
+      "name": "HryFine",
+      "developer": "Shenzhen United Power Technology Co., Ltd.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/07/e3/db07e320-61d1-81d3-e9d6-62082f64f385/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "rating": 2.3,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/hryfine/id1447215452?uo=2"
+    },
+    {
+      "rank": 21,
+      "name": "GoalPulse: Live Football",
+      "developer": "Vu Thi Hanh",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/db/3f/23db3f5c-d18e-f7ad-82ee-6cd136dffb7a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rating": 5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/goalpulse-live-football/id6760445381?uo=2"
     },
     {
       "rank": 22,
-      "name": "Spond",
-      "developer": "SPOND AS",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/fe/7c/aefe7c98-5867-099b-30cb-b030e1e735cf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "rating": 4.5,
+      "name": "Omby – Futebol perto de ti",
+      "developer": "Arnaud Rabeony",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/91/84/d591847e-6d21-9e8c-2c73-308768177d2a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rating": 4.9,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/spond/id755596884?uo=2"
+      "url": "https://apps.apple.com/pt/app/omby-futebol-perto-de-ti/id6453520646?uo=2"
     },
     {
       "rank": 23,
@@ -214,6 +214,33 @@
     },
     {
       "rank": 24,
+      "name": "MyGol - Competições de futebol",
+      "developer": "Technology Sports Management SL",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/7a/52/947a5232-7e26-38bf-7211-4c5de9ab129a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rating": 1.9,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/mygol-competi%C3%A7%C3%B5es-de-futebol/id1434613463?uo=2"
+    },
+    {
+      "rank": 25,
+      "name": "GPS Orienteering",
+      "developer": "Vidaview Tech AB",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/9c/4a/e39c4a19-6f09-84dd-681b-25f1e217e50f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 4.4,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/gps-orienteering/id1555855545?uo=2"
+    },
+    {
+      "rank": 26,
+      "name": "Premier League - Scores, News",
+      "developer": "Premier League",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/2e/c2/cc2ec218-2679-9ba9-a8b2-2d107ce2d60c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 4.8,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/premier-league-scores-news/id1138895159?uo=2"
+    },
+    {
+      "rank": 27,
       "name": "FotMob - Resultados de Futebol",
       "developer": "FotMob AS",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/c2/f3/73c2f367-5769-5bd0-6ec2-2a0893548bcb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
@@ -222,43 +249,7 @@
       "url": "https://apps.apple.com/pt/app/fotmob-resultados-de-futebol/id488575683?uo=2"
     },
     {
-      "rank": 25,
-      "name": "MyGol - Competições de futebol",
-      "developer": "Technology Sports Management SL",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/63/fa/0263fa47-a804-1ee5-1300-37643dcfdf6e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "rating": 1.9,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/mygol-competi%C3%A7%C3%B5es-de-futebol/id1434613463?uo=2"
-    },
-    {
-      "rank": 26,
-      "name": "GoalPulse: Live Football",
-      "developer": "Vu Thi Hanh",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/db/3f/23db3f5c-d18e-f7ad-82ee-6cd136dffb7a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "rating": 5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/goalpulse-live-football/id6760445381?uo=2"
-    },
-    {
-      "rank": 27,
-      "name": "Omby – Futebol perto de ti",
-      "developer": "Arnaud Rabeony",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/91/84/d591847e-6d21-9e8c-2c73-308768177d2a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "rating": 4.9,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/omby-futebol-perto-de-ti/id6453520646?uo=2"
-    },
-    {
       "rank": 28,
-      "name": "Live Sports Plus HD",
-      "developer": "ZAFAR IQBAL",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/c2/36/c0c2362e-6d4d-ed94-6f96-62a5c9889bda/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 4.1,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/live-sports-plus-hd/id6755432509?uo=2"
-    },
-    {
-      "rank": 29,
       "name": "SuperApp",
       "developer": "Supera",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/66/c0/8666c082-0597-7e67-a504-e0843b2e20bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
@@ -267,22 +258,31 @@
       "url": "https://apps.apple.com/pt/app/superapp/id569156542?uo=2"
     },
     {
-      "rank": 30,
-      "name": "Canal 11",
-      "developer": "Federação Portuguesa de Futebol",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/1c/79/271c79b0-70d8-71d3-d950-e56049ce9c7a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "rating": 2.4,
+      "rank": 29,
+      "name": "Oficial UEFA Champions League",
+      "developer": "UEFA",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/2c/94/512c9457-e9f8-ead2-4b10-ce7c9bbc2f07/AppIcon-0-0-1x_U007ephone-0-7-0-0-85-220.png/100x100bb.png",
+      "rating": 4.8,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/canal-11/id1464693730?uo=2"
+      "url": "https://apps.apple.com/pt/app/oficial-uefa-champions-league/id1024506667?uo=2"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "NBA: Placar ao Vivo & Agenda",
       "developer": "NBA MEDIA VENTURES, LLC",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/5c/99/ae5c9954-fea2-de61-e740-17d0761a5042/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/d3/4f/98d34fe9-3d04-1db0-70aa-b832ee8f8744/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "rating": 4.7,
       "price": "Free",
       "url": "https://apps.apple.com/pt/app/nba-placar-ao-vivo-agenda/id484672289?uo=2"
+    },
+    {
+      "rank": 31,
+      "name": "Dicas de Apostas - Scouter",
+      "developer": "Artlines Web Solutions LTD",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/cc/22/4fcc22fd-69fb-e54b-ac9f-6463603975d7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 4.7,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/dicas-de-apostas-scouter/id1569637963?uo=2"
     },
     {
       "rank": 32,
@@ -295,69 +295,42 @@
     },
     {
       "rank": 33,
-      "name": "BeSoccer: Resultados futebol",
-      "developer": "BESOCCER",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/91/81/2e91813d-64ef-439a-580c-683dbc8f96eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "rating": 4.7,
+      "name": "Sporttraxx Races",
+      "developer": "Sporttraxx",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/29/df/e829dfe8-fc26-21d4-223e-0e29e964c56c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 0,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/besoccer-resultados-futebol/id550928207?uo=2"
+      "url": "https://apps.apple.com/pt/app/sporttraxx-races/id1573718426?uo=2"
     },
     {
       "rank": 34,
-      "name": "Live Football Matches : Sport",
-      "developer": "Prashanth Hegde",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/fc/9e/1efc9e71-c5e5-872e-44fd-b8353010e687/AppIcon-0-1x_U007epad-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "rating": 3.2,
+      "name": "Spond",
+      "developer": "SPOND AS",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/fe/7c/aefe7c98-5867-099b-30cb-b030e1e735cf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "rating": 4.5,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/live-football-matches-sport/id6760704514?uo=2"
+      "url": "https://apps.apple.com/pt/app/spond/id755596884?uo=2"
     },
     {
       "rank": 35,
-      "name": "Uniscore - Jogos ao Vivo",
-      "developer": "Unity Future Bright Sport Limited",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/fb/68/98fb6863-3b4a-2af9-20ba-92d9ff7d5cd0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 3.9,
+      "name": "Lagoa Station",
+      "developer": "PadelOS",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/56/01/d056012d-5962-5aba-b3c7-63f1264f5f8b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+      "rating": 0,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/uniscore-jogos-ao-vivo/id6475382945?uo=2"
+      "url": "https://apps.apple.com/pt/app/lagoa-station/id6823582935?uo=2"
     },
     {
       "rank": 36,
-      "name": "Live Score: Resultados Futebol",
-      "developer": "InfinityBridgeLimited",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/87/1e/95871e12-02e2-52b8-9826-323932eb344f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 4.5,
+      "name": "UEFA Europa League - Oficial",
+      "developer": "UEFA",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/1b/93/f71b933e-f5a7-447d-f206-afe2a0ede7d1/AppIcon-0-0-1x_U007ephone-0-7-0-0-85-220.png/100x100bb.png",
+      "rating": 4.8,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/live-score-resultados-futebol/id6772089158?uo=2"
+      "url": "https://apps.apple.com/pt/app/uefa-europa-league-oficial/id1048183714?uo=2"
     },
     {
       "rank": 37,
-      "name": "FUT.GG - FC 27 Evos & Prices",
-      "developer": "FutGG",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/65/08/bd650862-eaf1-1b18-ec9e-0a77e22213c0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "rating": 4.8,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/fut-gg-fc-27-evos-prices/id6470957382?uo=2"
-    },
-    {
-      "rank": 38,
-      "name": "Racket ID",
-      "developer": "Racket ID CSM AB",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/a0/1e/d2a01e86-7742-5004-a066-2263c3961cd4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 2.8,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/racket-id/id6480926395?uo=2"
-    },
-    {
-      "rank": 39,
-      "name": "Real - Sports",
-      "developer": "Real Vault, Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/4d/b6/e94db69a-667e-8818-df86-d020641669a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "rating": 4.8,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/real-sports/id1514546162?uo=2"
-    },
-    {
-      "rank": 40,
       "name": "Clubept",
       "developer": "Clube.PT",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/3e/6c/543e6c88-e4b6-2257-6564-a68bb14ad96c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
@@ -366,61 +339,16 @@
       "url": "https://apps.apple.com/pt/app/clubept/id6447982083?uo=2"
     },
     {
-      "rank": 41,
-      "name": "Premier League - Scores, News",
-      "developer": "Premier League",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/2e/c2/cc2ec218-2679-9ba9-a8b2-2d107ce2d60c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rank": 38,
+      "name": "FUT.GG - FC 27 Evos & Prices",
+      "developer": "FutGG",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/65/08/bd650862-eaf1-1b18-ec9e-0a77e22213c0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "rating": 4.8,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/premier-league-scores-news/id1138895159?uo=2"
+      "url": "https://apps.apple.com/pt/app/fut-gg-fc-27-evos-prices/id6470957382?uo=2"
     },
     {
-      "rank": 42,
-      "name": "Liga Portugal",
-      "developer": "Liga Portugal",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/9e/b1/2a9eb1da-4a12-d88d-1e8a-3e430bce68ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "rating": 4.7,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/liga-portugal/id932328714?uo=2"
-    },
-    {
-      "rank": 43,
-      "name": "Formula 1®",
-      "developer": "Formula One Digital Media Limited",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f2/cb/a1f2cb47-8cea-272c-4d14-d2a079aa33f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "rating": 4.8,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/formula-1/id835022598?uo=2"
-    },
-    {
-      "rank": 44,
-      "name": "Resultados Futebol ao Vivo TV",
-      "developer": "Aleksandr Alekseev",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/fe/2a/82fe2ac9-4cbd-c00e-dadc-fc9e8613098f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 4.3,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/resultados-futebol-ao-vivo-tv/id6478971501?uo=2"
-    },
-    {
-      "rank": 45,
-      "name": "Phive",
-      "developer": "Arquivandus Lda",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/19/6f/e7196fe2-b3f0-6b83-995b-07b322e872ef/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "rating": 2.5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/phive/id1510568455?uo=2"
-    },
-    {
-      "rank": 46,
-      "name": "OneFootball Resultados Futebol",
-      "developer": "Onefootball GmbH",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/57/80/355780f9-aa36-98e3-102e-826d1f6e5f70/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "rating": 4.8,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/onefootball-resultados-futebol/id382002079?uo=2"
-    },
-    {
-      "rank": 47,
+      "rank": 39,
       "name": "FUTBIN FC 27 Evolutions & More",
       "developer": "Better Collective",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/b3/06/08b30619-f883-155b-8938-e252f80ddf0e/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
@@ -429,34 +357,61 @@
       "url": "https://apps.apple.com/pt/app/futbin-fc-27-evolutions-more/id1080465358?uo=2"
     },
     {
-      "rank": 48,
-      "name": "Premiere: Jogos ao vivo",
-      "developer": "GLOBO COM. E PART. S/A",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/41/47/894147d0-78a1-4bcc-38a4-290f653691e5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "rating": 3.9,
+      "rank": 40,
+      "name": "BeSoccer: Resultados futebol",
+      "developer": "BESOCCER",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/91/81/2e91813d-64ef-439a-580c-683dbc8f96eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 4.7,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/premiere-jogos-ao-vivo/id468481865?uo=2"
+      "url": "https://apps.apple.com/pt/app/besoccer-resultados-futebol/id550928207?uo=2"
     },
     {
-      "rank": 49,
-      "name": "PeopleFamilyClub",
-      "developer": "Arquivandus Lda",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/07/02/ad0702e6-5e4c-24ad-951f-7a6c86e81e77/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "rating": 3.7,
+      "rank": 41,
+      "name": "Live Sports Plus HD",
+      "developer": "ZAFAR IQBAL",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/c2/36/c0c2362e-6d4d-ed94-6f96-62a5c9889bda/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 4.1,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/peoplefamilyclub/id1663680069?uo=2"
+      "url": "https://apps.apple.com/pt/app/live-sports-plus-hd/id6755432509?uo=2"
     },
     {
-      "rank": 50,
-      "name": "VITÓRIA SC - App Oficial",
-      "developer": "Blocksport AG",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/e1/5b/3be15b9a-283b-3ec4-9c73-b82d65be3564/AppIcon-0-0-1x_U007ephone-0-7-0-85-220.png/100x100bb.png",
-      "rating": 4.8,
+      "rank": 42,
+      "name": "Racket ID",
+      "developer": "Racket ID CSM AB",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/a0/1e/d2a01e86-7742-5004-a066-2263c3961cd4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 2.8,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/vit%C3%B3ria-sc-app-oficial/id6745548547?uo=2"
+      "url": "https://apps.apple.com/pt/app/racket-id/id6480926395?uo=2"
     },
     {
-      "rank": 51,
+      "rank": 43,
+      "name": "Canal 11",
+      "developer": "Federação Portuguesa de Futebol",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/1c/79/271c79b0-70d8-71d3-d950-e56049ce9c7a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 2.4,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/canal-11/id1464693730?uo=2"
+    },
+    {
+      "rank": 44,
+      "name": "Orira",
+      "developer": "Daniel Leal",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/bc/ac/c9bcaca2-09f0-c75a-8e3c-e55f92cc6621/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/orira/id6777563408?uo=2"
+    },
+    {
+      "rank": 45,
+      "name": "Live Football Matches : Sport",
+      "developer": "Prashanth Hegde",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/fc/9e/1efc9e71-c5e5-872e-44fd-b8353010e687/AppIcon-0-1x_U007epad-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "rating": 3.2,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/live-football-matches-sport/id6760704514?uo=2"
+    },
+    {
+      "rank": 46,
       "name": "PadelTeams",
       "developer": "Antonio Fernandes",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/2c/29/a72c2914-577e-29c1-9555-ae1d440d16c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
@@ -465,7 +420,43 @@
       "url": "https://apps.apple.com/pt/app/padelteams/id6478245060?uo=2"
     },
     {
-      "rank": 52,
+      "rank": 47,
+      "name": "NFL OnePass",
+      "developer": "NFL Enterprises LLC",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/dc/9a/0edc9a5a-9f6f-b770-e4ac-fd107c246efb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "rating": 0,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/nfl-onepass/id1456010454?uo=2"
+    },
+    {
+      "rank": 48,
+      "name": "Resultados Futebol ao Vivo TV",
+      "developer": "Aleksandr Alekseev",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/fe/2a/82fe2ac9-4cbd-c00e-dadc-fc9e8613098f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 4.3,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/resultados-futebol-ao-vivo-tv/id6478971501?uo=2"
+    },
+    {
+      "rank": 49,
+      "name": "Sportity",
+      "developer": "Sportity OU",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/82/43/c982433b-e91c-df3a-738c-4f073e2d6298/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 4,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/sportity/id1344934434?uo=2"
+    },
+    {
+      "rank": 50,
+      "name": "Phive",
+      "developer": "Arquivandus Lda",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/19/6f/e7196fe2-b3f0-6b83-995b-07b322e872ef/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "rating": 2.5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/phive/id1510568455?uo=2"
+    },
+    {
+      "rank": 51,
       "name": "Fútbol Emotion",
       "developer": "Porteromania S.L.",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/6e/21/156e213b-e344-16ba-5da5-5eceb991df0d/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
@@ -474,16 +465,7 @@
       "url": "https://apps.apple.com/pt/app/f%C3%BAtbol-emotion/id1191488506?uo=2"
     },
     {
-      "rank": 53,
-      "name": "GPS Orienteering",
-      "developer": "Vidaview Tech AB",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/9c/4a/e39c4a19-6f09-84dd-681b-25f1e217e50f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "rating": 4.4,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/gps-orienteering/id1555855545?uo=2"
-    },
-    {
-      "rank": 54,
+      "rank": 52,
       "name": "180Score IA Previsões Futebol",
       "developer": "4GROW",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/5b/9f/c25b9f20-0286-2b6d-0074-7ef7761788b9/Icon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
@@ -492,34 +474,43 @@
       "url": "https://apps.apple.com/pt/app/180score-ia-previs%C3%B5es-futebol/id6478534279?uo=2"
     },
     {
-      "rank": 55,
-      "name": "Super Portistas: Notícias",
-      "developer": "Atlas Invencível",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/03/bd/4803bdce-0617-3731-0c0d-20d5f3693d14/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "rating": 5,
+      "rank": 53,
+      "name": "PeopleFamilyClub",
+      "developer": "Arquivandus Lda",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/07/02/ad0702e6-5e4c-24ad-951f-7a6c86e81e77/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "rating": 3.7,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/super-portistas-not%C3%ADcias/id6819623796?uo=2"
+      "url": "https://apps.apple.com/pt/app/peoplefamilyclub/id1663680069?uo=2"
+    },
+    {
+      "rank": 54,
+      "name": "AD Baião",
+      "developer": "Associacao Desportiva de Baiao Futebol, SAD",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/26/ca/c026ca9b-e3c7-1a65-aafc-e5cac8658c04/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 0,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/ad-bai%C3%A3o/id6823255611?uo=2"
+    },
+    {
+      "rank": 55,
+      "name": "F1 TV: Assista à F1® ao vivo",
+      "developer": "Formula One Digital Media Limited",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/bb/2e/c5bb2e3d-c18a-f0ce-c93d-f44ddf7b4136/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/100x100bb.png",
+      "rating": 4.8,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/f1-tv-assista-%C3%A0-f1-ao-vivo/id1315007279?uo=2"
     },
     {
       "rank": 56,
-      "name": "MENACE Padel",
-      "developer": "Fusion Bridge Lab",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/55/6e/10556ef7-2289-2d91-84be-bd1f18d4cc49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "rating": 5,
+      "name": "Formula 1®",
+      "developer": "Formula One Digital Media Limited",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f2/cb/a1f2cb47-8cea-272c-4d14-d2a079aa33f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 4.8,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/menace-padel/id6796690505?uo=2"
+      "url": "https://apps.apple.com/pt/app/formula-1/id835022598?uo=2"
     },
     {
       "rank": 57,
-      "name": "Live Football TV : All Matches",
-      "developer": "Vishal Sorathiya",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/f3/26/4df3269a-bef8-6280-9962-06011ee77d59/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "rating": 4.5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/live-football-tv-all-matches/id6670479063?uo=2"
-    },
-    {
-      "rank": 58,
       "name": "CSFC: Pickup Football",
       "developer": "CORE STREET FOOTBALL COMMUNITY, LDA",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/c4/ad/fcc4ad89-741a-b96b-6857-9c36ee613a54/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
@@ -528,70 +519,25 @@
       "url": "https://apps.apple.com/pt/app/csfc-pickup-football/id6782117618?uo=2"
     },
     {
-      "rank": 59,
-      "name": "FC Porto TV",
-      "developer": "FC Porto Media",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/28/f9/8e28f930-37e2-502e-0a5b-f002351935f5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-      "rating": 4,
+      "rank": 58,
+      "name": "andeboltv",
+      "developer": "Federação de Andebol de Portugal",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/76/1c/27761c2b-4616-8735-ae57-8e0c462b8c58/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 3,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/fc-porto-tv/id1473588651?uo=2"
+      "url": "https://apps.apple.com/pt/app/andeboltv/id6444163367?uo=2"
+    },
+    {
+      "rank": 59,
+      "name": "Le Mans Tickets",
+      "developer": "SecuTix",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/df/5d/f3df5d20-c8f7-706c-a8f6-cfe0f0e006d5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "rating": 0,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/le-mans-tickets/id6446310591?uo=2"
     },
     {
       "rank": 60,
-      "name": "Aquafitness",
-      "developer": "Arquivandus Lda",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/bd/c8/ffbdc876-6e03-a33b-9e51-49a444bcc8dc/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "rating": 3.3,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/aquafitness/id1515043718?uo=2"
-    },
-    {
-      "rank": 61,
-      "name": "MeuSporting",
-      "developer": "Sportinveste Multimédia",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/de/86/b5/de86b5a5-8583-35d1-4608-6278c2352617/mzl.cssfavda.png/100x100bb.png",
-      "rating": 1.6,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/meusporting/id600044475?uo=2"
-    },
-    {
-      "rank": 62,
-      "name": "OSM Tactics",
-      "developer": "Tarik Fatih PINARCI",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/b7/a4/74b7a4ca-ea8e-6c3e-7d1b-c4f4314ce7dd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 4.4,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/osm-tactics/id1632773385?uo=2"
-    },
-    {
-      "rank": 63,
-      "name": "Scout Picks: Bet Smarter",
-      "developer": "Aertech Labs, LLC",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/61/aa/5d61aac5-9360-acf6-45c5-166672ec4fe7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "rating": 4.2,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/scout-picks-bet-smarter/id6759328850?uo=2"
-    },
-    {
-      "rank": 64,
-      "name": "AiScore - Resultados ao vivo",
-      "developer": "ALLSPORTS TECHNOLOGY PTE. LTD.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/f2/d5/c1f2d5b6-0898-0180-6427-3915906b27fa/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "rating": 4.5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/aiscore-resultados-ao-vivo/id1477171291?uo=2"
-    },
-    {
-      "rank": 65,
-      "name": "Surflens: AI Surf Camera",
-      "developer": "Workstories, Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/25/1f/28251f75-8a19-5fc8-4be1-8312b58986cf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "rating": 5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/surflens-ai-surf-camera/id6757678275?uo=2"
-    },
-    {
-      "rank": 66,
       "name": "FPF Resultados",
       "developer": "Federação Portuguesa de Futebol",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/50/7d/b8/507db8b8-9ab1-5a30-e155-25987091a2bb/AppIcon-0-1x_U007emarketing-0-85-220-0-5.png/100x100bb.png",
@@ -600,13 +546,67 @@
       "url": "https://apps.apple.com/pt/app/fpf-resultados/id1457688788?uo=2"
     },
     {
-      "rank": 67,
-      "name": "Sorare Fantasy Sports",
-      "developer": "Sorare",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/da/07/2ada0757-e05e-01cf-7497-0c03c0b9be99/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rank": 61,
+      "name": "MAAT",
+      "developer": "Strive SRL",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/97/8e/31978ece-f6ae-109a-840b-340c50561ab0/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 4.6,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/maat/id1471462737?uo=2"
+    },
+    {
+      "rank": 62,
+      "name": "VITÓRIA SC - App Oficial",
+      "developer": "Blocksport AG",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/ae/ca/f7aecacb-a5e7-2a44-b6ab-073918de2bbb/AppIcon-0-0-1x_U007ephone-0-7-0-85-220.png/100x100bb.png",
       "rating": 4.8,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/sorare-fantasy-sports/id1591453776?uo=2"
+      "url": "https://apps.apple.com/pt/app/vit%C3%B3ria-sc-app-oficial/id6745548547?uo=2"
+    },
+    {
+      "rank": 63,
+      "name": "Generali Maratón Málaga",
+      "developer": "SportManiacs",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/b1/f3/b9b1f383-9b29-68b4-6b1c-2500a5f32708/ZurichMMalaga-AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "rating": 0,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/generali-marat%C3%B3n-m%C3%A1laga/id1490135134?uo=2"
+    },
+    {
+      "rank": 64,
+      "name": "Premiere: Jogos ao vivo",
+      "developer": "GLOBO COM. E PART. S/A",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/41/47/894147d0-78a1-4bcc-38a4-290f653691e5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "rating": 3.9,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/premiere-jogos-ao-vivo/id468481865?uo=2"
+    },
+    {
+      "rank": 65,
+      "name": "OneFootball Resultados Futebol",
+      "developer": "Onefootball GmbH",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/57/80/355780f9-aa36-98e3-102e-826d1f6e5f70/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 4.8,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/onefootball-resultados-futebol/id382002079?uo=2"
+    },
+    {
+      "rank": 66,
+      "name": "Real - Sports",
+      "developer": "Real Vault, Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/4d/b6/e94db69a-667e-8818-df86-d020641669a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 4.8,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/real-sports/id1514546162?uo=2"
+    },
+    {
+      "rank": 67,
+      "name": "Uniscore - Jogos ao Vivo",
+      "developer": "Unity Future Bright Sport Limited",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/fb/68/98fb6863-3b4a-2af9-20ba-92d9ff7d5cd0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 3.9,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/uniscore-jogos-ao-vivo/id6475382945?uo=2"
     },
     {
       "rank": 68,
@@ -619,15 +619,87 @@
     },
     {
       "rank": 69,
-      "name": "UEFA.tv",
-      "developer": "UEFA",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8a/58/508a58c6-e7e2-0b89-d69b-28516bd1a208/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 3.8,
+      "name": "Live Score: Resultados Futebol",
+      "developer": "InfinityBridgeLimited",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/87/1e/95871e12-02e2-52b8-9826-323932eb344f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 4.5,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/uefa-tv/id1464156600?uo=2"
+      "url": "https://apps.apple.com/pt/app/live-score-resultados-futebol/id6772089158?uo=2"
     },
     {
       "rank": 70,
+      "name": "Sorare Fantasy Sports",
+      "developer": "Sorare",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/da/07/2ada0757-e05e-01cf-7497-0c03c0b9be99/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rating": 4.8,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/sorare-fantasy-sports/id1591453776?uo=2"
+    },
+    {
+      "rank": 71,
+      "name": "PlayLabel",
+      "developer": "Emma Shtilenko",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/45/df/d345dfba-5782-6125-bad5-966026c4c8b6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 2.3,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/playlabel/id6762291352?uo=2"
+    },
+    {
+      "rank": 72,
+      "name": "Liga Portugal",
+      "developer": "Liga Portugal",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/9e/b1/2a9eb1da-4a12-d88d-1e8a-3e430bce68ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 4.7,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/liga-portugal/id932328714?uo=2"
+    },
+    {
+      "rank": 73,
+      "name": "MeuSporting",
+      "developer": "Sportinveste Multimédia",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/de/86/b5/de86b5a5-8583-35d1-4608-6278c2352617/mzl.cssfavda.png/100x100bb.png",
+      "rating": 1.6,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/meusporting/id600044475?uo=2"
+    },
+    {
+      "rank": 74,
+      "name": "MotoGP™",
+      "developer": "MOTOGP SPORTS ENTERTAINMENT GROUP, S.L.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/84/49/288449f7-6bab-5ed7-a732-8deab28224ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "rating": 4.4,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/motogp/id1157573265?uo=2"
+    },
+    {
+      "rank": 75,
+      "name": "OSM Tactics",
+      "developer": "Tarik Fatih PINARCI",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/b7/a4/74b7a4ca-ea8e-6c3e-7d1b-c4f4314ce7dd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 4.4,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/osm-tactics/id1632773385?uo=2"
+    },
+    {
+      "rank": 76,
+      "name": "Forebet Football Predictions",
+      "developer": "FORECREATIONS",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/31/99/df319957-ea0d-8663-e2f4-c80cd8ae4b09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 0,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/forebet-football-predictions/id6443482854?uo=2"
+    },
+    {
+      "rank": 77,
+      "name": "AiScore - Resultados ao vivo",
+      "developer": "ALLSPORTS TECHNOLOGY PTE. LTD.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/f2/d5/c1f2d5b6-0898-0180-6427-3915906b27fa/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "rating": 4.5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/aiscore-resultados-ao-vivo/id1477171291?uo=2"
+    },
+    {
+      "rank": 78,
       "name": "Veo: Watch & Analyze",
       "developer": "Veo Technologies ApS",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/4f/6b/304f6bd0-4f83-4017-f6a2-95f4046b52f6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
@@ -636,25 +708,25 @@
       "url": "https://apps.apple.com/pt/app/veo-watch-analyze/id1573754839?uo=2"
     },
     {
-      "rank": 71,
-      "name": "HLTV – CS2 matches & coverage",
-      "developer": "HLTV.org ApS",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/45/fed345e4-5961-637d-b4d3-bc4c8a8a3586/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 4.8,
+      "rank": 79,
+      "name": "Resultados Andebol Portugal",
+      "developer": "Federação de Andebol de Portugal",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/c2/d7/efc2d789-ef01-20bf-62b2-85dcb2d55f62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 2.8,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/hltv-cs2-matches-coverage/id1078945675?uo=2"
+      "url": "https://apps.apple.com/pt/app/resultados-andebol-portugal/id1462309750?uo=2"
     },
     {
-      "rank": 72,
-      "name": "Skate AI: Aprender Manobras",
-      "developer": "Tatiana Trindade Varela de Enriquez",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/1b/52/211b5229-6288-e13d-3644-4763c3e02976/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rank": 80,
+      "name": "Yas Marina Circuit",
+      "developer": "Ethara",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/29/39/ac2939d2-8ea9-c254-ead8-48b563f82e85/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "rating": 0,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/skate-ai-aprender-manobras/id6814983538?uo=2"
+      "url": "https://apps.apple.com/pt/app/yas-marina-circuit/id6741838979?uo=2"
     },
     {
-      "rank": 73,
+      "rank": 81,
       "name": "365Scores: resultados de jogos",
       "developer": "365Scores",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/e3/b2/1fe3b23c-acb3-5cdb-aea6-12db1a73e85a/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
@@ -663,205 +735,7 @@
       "url": "https://apps.apple.com/pt/app/365scores-resultados-de-jogos/id571801488?uo=2"
     },
     {
-      "rank": 74,
-      "name": "Forza Football - Live Scores",
-      "developer": "Forza Football AB",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/6f/e0/4a6fe04e-2170-50a0-1072-95b7babd090b/icon_default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "rating": 4.7,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/forza-football-live-scores/id500138120?uo=2"
-    },
-    {
-      "rank": 75,
-      "name": "SWISH by NBN23",
-      "developer": "NOTHINGBUTNET SOCIEDAD LIMITADA",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/c8/23/e4c82377-122c-f618-6072-58bfdf3c5f55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 4.3,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/swish-by-nbn23/id1472705925?uo=2"
-    },
-    {
-      "rank": 76,
-      "name": "NaviTabi",
-      "developer": "NaviTabi Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/45/10/5f45101f-edb2-8165-d9a0-6cd1b9d3a46e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "rating": 1.7,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/navitabi/id1350889029?uo=2"
-    },
-    {
-      "rank": 77,
-      "name": "433 | The Home Of Football",
-      "developer": "433 BV",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/6d/9d/c46d9dde-56bc-617d-6f8f-2b5c02126d28/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 4.1,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/433-the-home-of-football/id1601630546?uo=2"
-    },
-    {
-      "rank": 78,
-      "name": "Drama Live: Sports App",
-      "developer": "Swati Gujarati",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/c6/75/3fc675f3-8ab0-8ac5-dd44-596b68fcb0b9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 4.5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/drama-live-sports-app/id6740727226?uo=2"
-    },
-    {
-      "rank": 79,
-      "name": "Smashpro - Campos Padel",
-      "developer": "SMASHPRO, LDA",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/f1/43/eaf1438c-0fed-3a1a-552c-bdf4fbf808ec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 4.9,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/smashpro-campos-padel/id6746759204?uo=2"
-    },
-    {
-      "rank": 80,
-      "name": "Dicas de Apostas - Scouter",
-      "developer": "Artlines Web Solutions LTD",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/cc/22/4fcc22fd-69fb-e54b-ac9f-6463603975d7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 4.7,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/dicas-de-apostas-scouter/id1569637963?uo=2"
-    },
-    {
-      "rank": 81,
-      "name": "OLIVER PRO",
-      "developer": "TryOliver",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/73/9d/a7739d88-5ff5-7b8a-a925-967c84f8047a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 0,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/oliver-pro/id1445557240?uo=2"
-    },
-    {
       "rank": 82,
-      "name": "SC Braga App Oficial",
-      "developer": "webook.com",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/7e/49/397e4963-e168-7804-ce01-4c28110958f0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 4.6,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/sc-braga-app-oficial/id6762286166?uo=2"
-    },
-    {
-      "rank": 83,
-      "name": "MAAT",
-      "developer": "Strive SRL",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/97/8e/31978ece-f6ae-109a-840b-340c50561ab0/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 4.6,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/maat/id1471462737?uo=2"
-    },
-    {
-      "rank": 84,
-      "name": "NFL OnePass",
-      "developer": "NFL Enterprises LLC",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/dc/9a/0edc9a5a-9f6f-b770-e4ac-fd107c246efb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "rating": 0,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/nfl-onepass/id1456010454?uo=2"
-    },
-    {
-      "rank": 85,
-      "name": "Sportity",
-      "developer": "Sportity OU",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/82/43/c982433b-e91c-df3a-738c-4f073e2d6298/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "rating": 4,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/sportity/id1344934434?uo=2"
-    },
-    {
-      "rank": 86,
-      "name": "Tennis TV - Live Streaming",
-      "developer": "ATP Media Operations Ltd.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/4c/3a/d44c3a6f-cacb-f83b-0e03-91a70df67162/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 4.6,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/tennis-tv-live-streaming/id1114471030?uo=2"
-    },
-    {
-      "rank": 87,
-      "name": "Orira",
-      "developer": "Daniel Leal",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/bc/ac/c9bcaca2-09f0-c75a-8e3c-e55f92cc6621/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "rating": 5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/orira/id6777563408?uo=2"
-    },
-    {
-      "rank": 88,
-      "name": "One Time Pro",
-      "developer": "Shixian Wu",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/84/26/6c842672-cf65-2b38-6e59-b688d614a91a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "rating": 3.1,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/one-time-pro/id6451131774?uo=2"
-    },
-    {
-      "rank": 89,
-      "name": "Maia Desporto",
-      "developer": "Sincelo - Sistemas de Informacao",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/1e/ad/6f1ead75-b175-6e66-bc7c-eab5a81fe24c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "rating": 2.3,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/maia-desporto/id6453356797?uo=2"
-    },
-    {
-      "rank": 90,
-      "name": "Race Audio: Live",
-      "developer": "MAYO NEXT GEN LLC",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/e1/9d/4ee19d9a-4412-c433-aa50-24139852235c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "rating": 0,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/race-audio-live/id6786418510?uo=2"
-    },
-    {
-      "rank": 91,
-      "name": "ESPN: Live Sports & Scores",
-      "developer": "Disney",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/d8/18/37d818f2-190f-649f-7992-574bf009d223/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "rating": 4.7,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/espn-live-sports-scores/id317469184?uo=2"
-    },
-    {
-      "rank": 92,
-      "name": "Apadeltour",
-      "developer": "Xporty Software S.L.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/58/82/d358827e-8c28-09a7-20aa-3c11ef49a945/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-      "rating": 0,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/apadeltour/id6760182771?uo=2"
-    },
-    {
-      "rank": 93,
-      "name": "Procurame",
-      "developer": "Carlos Coelho",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ab/d8/6eabd808-baaf-f7f4-10bd-8f8ab9c4f62a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 5,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/procurame/id6740540065?uo=2"
-    },
-    {
-      "rank": 94,
-      "name": "eFHUB 27",
-      "developer": "Nova Software Studio LTD",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/7b/1d/977b1d77-0b83-a2f5-0e4d-24561a354bd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "rating": 4,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/efhub-27/id1591724001?uo=2"
-    },
-    {
-      "rank": 95,
-      "name": "Quadro Tático: Futebol",
-      "developer": "BLUELINDEN",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/00/b5/5500b5a2-f8b8-7b10-5229-71874709d2d9/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-      "rating": 4.8,
-      "price": "Free",
-      "url": "https://apps.apple.com/pt/app/quadro-t%C3%A1tico-futebol/id834813357?uo=2"
-    },
-    {
-      "rank": 96,
       "name": "Mafrativa",
       "developer": "Sincelo - Sistemas de Informacao",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/b2/3b/8cb23b60-fe8b-84b6-35e4-e465068fff45/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
@@ -870,7 +744,25 @@
       "url": "https://apps.apple.com/pt/app/mafrativa/id6443801729?uo=2"
     },
     {
-      "rank": 97,
+      "rank": 83,
+      "name": "Rolex Paris Masters",
+      "developer": "Fédération Française de Tennis",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/b4/6f/4eb46fea-ad28-b2a2-8e8e-5604ff80bf4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/rolex-paris-masters/id6443660414?uo=2"
+    },
+    {
+      "rank": 84,
+      "name": "FC Porto TV",
+      "developer": "FC Porto Media",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/28/f9/8e28f930-37e2-502e-0a5b-f002351935f5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "rating": 4,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/fc-porto-tv/id1473588651?uo=2"
+    },
+    {
+      "rank": 85,
       "name": "ASICS",
       "developer": "ASICS Corporation",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/26/33/fb2633f0-4313-3aeb-12c4-55f302d5f380/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
@@ -879,16 +771,43 @@
       "url": "https://apps.apple.com/pt/app/asics/id6736470866?uo=2"
     },
     {
-      "rank": 98,
-      "name": "Placar - 2 equipes",
-      "developer": "Edwin Chan",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/8b/66/e18b66f5-fe05-0455-6732-4eea18431070/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "rating": 4.8,
+      "rank": 86,
+      "name": "RockTheSport Checkin",
+      "developer": "NUONET GESTION, S.L.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/da/15/20da15f8-7f9f-6697-f026-0285389d8e72/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rating": 0,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/placar-2-equipes/id1530170223?uo=2"
+      "url": "https://apps.apple.com/pt/app/rockthesport-checkin/id6447214096?uo=2"
     },
     {
-      "rank": 99,
+      "rank": 87,
+      "name": "ESPN: Live Sports & Scores",
+      "developer": "Disney",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/d8/18/37d818f2-190f-649f-7992-574bf009d223/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "rating": 4.7,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/espn-live-sports-scores/id317469184?uo=2"
+    },
+    {
+      "rank": 88,
+      "name": "eFHUB 27",
+      "developer": "Nova Software Studio LTD",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/7b/1d/977b1d77-0b83-a2f5-0e4d-24561a354bd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 4.1,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/efhub-27/id1591724001?uo=2"
+    },
+    {
+      "rank": 89,
+      "name": "BetMines - Dicas de apostas",
+      "developer": "Soltek Mines SL",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/cc/0c/9bcc0c19-6363-d6d1-4e01-abb84af4e18b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "rating": 4.7,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/betmines-dicas-de-apostas/id1477625153?uo=2"
+    },
+    {
+      "rank": 90,
       "name": "Tchacosports 360",
       "developer": "Alzira Da Conceio Francisco Faria",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/fc/f2/36fcf2a8-6e7b-fed8-2af8-f01b08f0623e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
@@ -897,13 +816,94 @@
       "url": "https://apps.apple.com/pt/app/tchacosports-360/id6444284090?uo=2"
     },
     {
-      "rank": 100,
-      "name": "LiveScore: Resultados Futebol",
-      "developer": "LiveScore Ltd.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/dd/74/41dd7423-3771-d0d5-d8b4-2f119cee1206/LiveScore-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rank": 91,
+      "name": "BetGPT - Prognósticos IA",
+      "developer": "Micom Tech SRL",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/0e/e8/980ee8b9-6b62-09a2-72fa-6056bf88ea5e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 4.5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/betgpt-progn%C3%B3sticos-ia/id6464222475?uo=2"
+    },
+    {
+      "rank": 92,
+      "name": "Surflens: AI Surf Camera",
+      "developer": "Workstories, Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/25/1f/28251f75-8a19-5fc8-4be1-8312b58986cf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "rating": 5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/surflens-ai-surf-camera/id6757678275?uo=2"
+    },
+    {
+      "rank": 93,
+      "name": "SportsISM AthleteCarj",
+      "developer": "Moongy, S.A.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/75/e6/c475e68b-dead-608a-788a-1a7b60b9e28c/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/100x100bb.png",
+      "rating": 3.5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/sportsism-athletecarj/id1618948547?uo=2"
+    },
+    {
+      "rank": 94,
+      "name": "Quadro Tático: Futebol",
+      "developer": "BLUELINDEN",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/00/b5/5500b5a2-f8b8-7b10-5229-71874709d2d9/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
       "rating": 4.8,
       "price": "Free",
-      "url": "https://apps.apple.com/pt/app/livescore-resultados-futebol/id356928178?uo=2"
+      "url": "https://apps.apple.com/pt/app/quadro-t%C3%A1tico-futebol/id834813357?uo=2"
+    },
+    {
+      "rank": 95,
+      "name": "FeedxBoost",
+      "developer": "Pedro Santos",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/56/d8/df56d8e8-565a-d695-e93d-a7440f364d22/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 0,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/feedxboost/id6763366941?uo=2"
+    },
+    {
+      "rank": 96,
+      "name": "SC Braga App Oficial",
+      "developer": "webook.com",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/7e/49/397e4963-e168-7804-ce01-4c28110958f0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rating": 4.6,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/sc-braga-app-oficial/id6762286166?uo=2"
+    },
+    {
+      "rank": 97,
+      "name": "Futebol em Direto",
+      "developer": "Gabriele Petrone",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/74/5c/ca745ca8-af1e-ecfd-6711-77f60a3a6dd1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rating": 4.5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/futebol-em-direto/id463401049?uo=2"
+    },
+    {
+      "rank": 98,
+      "name": "MENACE Padel",
+      "developer": "Fusion Bridge Lab",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/55/6e/10556ef7-2289-2d91-84be-bd1f18d4cc49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "rating": 5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/menace-padel/id6796690505?uo=2"
+    },
+    {
+      "rank": 99,
+      "name": "Super Portistas: Notícias",
+      "developer": "Atlas Invencível",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/d0/1e/cdd01e91-5947-0642-6af5-fa02bd83bf33/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rating": 5,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/super-portistas-not%C3%ADcias/id6819623796?uo=2"
+    },
+    {
+      "rank": 100,
+      "name": "ERBC2026",
+      "developer": "Alps & Meditteranean Group SA",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/31/4a/a1314a06-a075-b9ca-df70-3f56f6adfdab/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rating": 0,
+      "price": "Free",
+      "url": "https://apps.apple.com/pt/app/erbc2026/id6670167671?uo=2"
     }
   ],
   "android": [
@@ -927,21 +927,21 @@
     },
     {
       "rank": 3,
-      "name": "DAZN - Watch Live Sports",
-      "developer": "DAZN",
-      "icon": "https://play-lh.googleusercontent.com/2m6bTc0_zIgzimPNQo_ZfZkhGHEjBXJIPbIs3_wliCXm4VTNkLW31yMMUqmB7Vpn51Fed62sUv91YtC1kRcZAQ",
-      "rating": 4.6,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.dazn"
-    },
-    {
-      "rank": 4,
       "name": "Flashscore: Resultados ao vivo",
       "developer": "Flashscore",
       "icon": "https://play-lh.googleusercontent.com/xemiqFey3iTZglLGA_7yBPL9vY0X5OnnW6lp-x6WflRuT_5J0p9JT3EQF2AHl4piOQOuBz2gAQqVnv241xSFOQ",
       "rating": 4.7,
       "price": "Free",
       "url": "https://play.google.com/store/apps/details?id=eu.livesport.FlashScore_com"
+    },
+    {
+      "rank": 4,
+      "name": "DAZN - Watch Live Sports",
+      "developer": "DAZN",
+      "icon": "https://play-lh.googleusercontent.com/2m6bTc0_zIgzimPNQo_ZfZkhGHEjBXJIPbIs3_wliCXm4VTNkLW31yMMUqmB7Vpn51Fed62sUv91YtC1kRcZAQ",
+      "rating": 4.6,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.dazn"
     },
     {
       "rank": 5,
@@ -981,15 +981,6 @@
     },
     {
       "rank": 9,
-      "name": "365Scores: Live Scores & Data",
-      "developer": "365Scores LTD",
-      "icon": "https://play-lh.googleusercontent.com/33TTGlcWsh5Jl7XAUp36Tj3hog3ICRAapLhj8glREVX-qYXQ7NqH3lMv0ntdHX4uMmtN1PBzoqlI33U0ORUvXQ",
-      "rating": 4.5,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.scores365"
-    },
-    {
-      "rank": 10,
       "name": "A BOLA",
       "developer": "A BOLA",
       "icon": "https://play-lh.googleusercontent.com/4PV8LWccewVHuInU55BxYo4pM0TpayzPuJFJvijqiGZO5qGapjsT5MPwiX_jbBwPkvx088hlSqzb52MrEakFrw",
@@ -998,13 +989,22 @@
       "url": "https://play.google.com/store/apps/details?id=com.tickaroo.rsa.android.pt"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "Placard",
       "developer": "Santa Casa da Misericórdia de Lisboa",
       "icon": "https://play-lh.googleusercontent.com/bo67Jdj0uUHo0nRp2SQ6WNyUal1hB1kUbqXT0WHyPZclM19Wg19G6KIz9PV3oGXp7j3PuN2Zz4-hyujjUoZRzA",
       "rating": 3.4,
       "price": "Free",
       "url": "https://play.google.com/store/apps/details?id=pt.scml.placard"
+    },
+    {
+      "rank": 11,
+      "name": "365Scores: Live Scores & Data",
+      "developer": "365Scores LTD",
+      "icon": "https://play-lh.googleusercontent.com/33TTGlcWsh5Jl7XAUp36Tj3hog3ICRAapLhj8glREVX-qYXQ7NqH3lMv0ntdHX4uMmtN1PBzoqlI33U0ORUvXQ",
+      "rating": 4.5,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.scores365"
     },
     {
       "rank": 12,
@@ -1017,21 +1017,21 @@
     },
     {
       "rank": 13,
-      "name": "Football Live Score: Soccer",
-      "developer": "Galixo L.L.C-FZ",
-      "icon": "https://play-lh.googleusercontent.com/Q72YBsotMm1HeZkTWRHNHJa7t1G5kK7BLM32jPs_phA5fKdB-9S4tyoUpmHNIpwBkIrMRBKBGA6LneV6p0vREQ",
-      "rating": 4.4,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.football.livescores.liveupdates"
-    },
-    {
-      "rank": 14,
       "name": "RegyBox",
       "developer": "Miguel RegyBox Fernandes",
       "icon": "https://play-lh.googleusercontent.com/I9_80fa0kH9td5c3OhUELoRcdLABjRh5K5SQ8DjykCM3CeO0VAwgqIn1DVxmYH35OWGBjrrHc71lplpqAeg9Rg",
       "rating": 3.8,
       "price": "Free",
       "url": "https://play.google.com/store/apps/details?id=com.zalox.regybox"
+    },
+    {
+      "rank": 14,
+      "name": "Football Live Score: Soccer",
+      "developer": "Galixo L.L.C-FZ",
+      "icon": "https://play-lh.googleusercontent.com/Q72YBsotMm1HeZkTWRHNHJa7t1G5kK7BLM32jPs_phA5fKdB-9S4tyoUpmHNIpwBkIrMRBKBGA6LneV6p0vREQ",
+      "rating": 4.4,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.football.livescores.liveupdates"
     },
     {
       "rank": 15,
@@ -1062,15 +1062,6 @@
     },
     {
       "rank": 18,
-      "name": "Football Live Score: MatchLive",
-      "developer": "Apfolife",
-      "icon": "https://play-lh.googleusercontent.com/sy_iyJ0xtGD8RGPENESpzmXOKYu53H64jnfQSxD0Gh7XXM1aWdqmytEnn8C8FoUcB6ns11-90aPYGt4I5hPUYA",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.livescore.football.livescores.footballscores"
-    },
-    {
-      "rank": 19,
       "name": "UEFA Champions League Official",
       "developer": "UEFA",
       "icon": "https://play-lh.googleusercontent.com/JZ5ZhN0QCs0uy18sbgquCWAAIzhvWHYAwZLbkdLqJ8FpqYW8q6bSDweRYpt79TF7RfHfcJhamWPIudf0lIz95Ek",
@@ -1079,7 +1070,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.uefa.ucl"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Live Football TV Streaming HD",
       "developer": "ZOOMAFRIK",
       "icon": "https://play-lh.googleusercontent.com/-2N1LNWprBZVcx8lC9-kpJgz3vEBlGtx5hAw2ZS41YUUtmO_Xt5aEKGXZupLHz1hf2dFhJKtn6KImajpLf4AzA",
@@ -1088,7 +1079,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.cricfytv.hdstreamz"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "sport tv",
       "developer": "Sport TV, SA",
       "icon": "https://play-lh.googleusercontent.com/wFyehWlezwd6Gcmq24oRG1nGCZ5u41JR6tBoxYKdoWCQneBDnPwBUauUtzC1lqDWxF4_h-PaL8bQOEXJmeWQqQ",
@@ -1097,7 +1088,7 @@
       "url": "https://play.google.com/store/apps/details?id=pt.sporttv.app"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Live Football TV HD Streaming",
       "developer": "Wolf Sports",
       "icon": "https://play-lh.googleusercontent.com/yt9TkMXdWmpDcI3N0bISZgoAPKhYvab471FqE4_Lh3DIhd2Emx7TuM95QtjIaq0Nkk7vKos-Q-KQbQFyqFFr_g",
@@ -1106,16 +1097,16 @@
       "url": "https://play.google.com/store/apps/details?id=com.mcl.livefootballttvhd.streaming"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Live Football TV HD Match 2026",
       "developer": "Bisa bisa",
       "icon": "https://play-lh.googleusercontent.com/n2aC8u_3-nJfY401AHy9jlV8D_-EatyfmxmF1jFy19AUv7rzsUK4GwlT922nQocNxMjnHeF0Ao_veP2Y4w1w8RI",
-      "rating": 4.9,
+      "rating": 4.7,
       "price": "Free",
       "url": "https://play.google.com/store/apps/details?id=com.live.footballtv.hd.streaming.score"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "FC Porto",
       "developer": "FCPorto",
       "icon": "https://play-lh.googleusercontent.com/HlN8c9jLzYjNYtTuiBOwqjwq_USi25qGcl03bZWr0tlXo52iRUFVOCI5ECRHwvvWCU64laYU7y8f5SdTf7Cl7g",
@@ -1124,13 +1115,22 @@
       "url": "https://play.google.com/store/apps/details?id=pt.android.fcporto"
     },
     {
-      "rank": 25,
-      "name": "Football Score TV LIVE",
-      "developer": "Mohsin Dev Studios",
-      "icon": "https://play-lh.googleusercontent.com/2ovdqXioEaU877kNsCQM4byJ4GF_XD85cbTruyQuREylO0U9-qk-wC1XqFwMPIkoWHC_M2ZBHZGggmlomjy5CM8",
-      "rating": 3.4,
+      "rank": 24,
+      "name": "TifoLive: Football Scores",
+      "developer": "TRANSPORT HOSPITAL GAME",
+      "icon": "https://play-lh.googleusercontent.com/uVfbFdnI9S_b4W3JShSf8wbmp4LJpHM5CsDfCCLKVJ9HxSD5pAcf4gc7K7ifTc2AHVgI41uLjdOSlQddq47ifw",
+      "rating": null,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.footballlivescoretv.livefootballmatchesmohsinrd.footballlivescoretv"
+      "url": "https://play.google.com/store/apps/details?id=com.t9livescore.tifo"
+    },
+    {
+      "rank": 25,
+      "name": "Zepp",
+      "developer": "Zepp, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/pZcZu4czlvMK8Du5CAUOUVM8KuZtEQh3k62W3JxKw8oYJdF_UYjaJxqlWfB3eqELitHwftwvcZ4jIOtdAOXXsQ",
+      "rating": 4.4,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager"
     },
     {
       "rank": 26,
@@ -1143,15 +1143,6 @@
     },
     {
       "rank": 27,
-      "name": "Canal 11",
-      "developer": "FPF",
-      "icon": "https://play-lh.googleusercontent.com/fuPHrqKQ33Q350IUYxy7c88wCVujEdsIy6HOWNZTDCzgdvzr1O5nggc6HcpCQX-1yxTGi-noio1p-X7cUWm2HA",
-      "rating": 3,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=pt.fpf.onze"
-    },
-    {
-      "rank": 28,
       "name": "TiePlayer – Padel & Tennis App",
       "developer": "Tiesports",
       "icon": "https://play-lh.googleusercontent.com/VqLXYaO72xYrJ27ojv_8B2sgG6x2hRp5K0aPdFHMphhdAO6ZlxRIYebZ-S96tXjCOHhOKOJRzv050_t9IAwm9A",
@@ -1160,34 +1151,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.Tiesports.PlayerApp"
     },
     {
-      "rank": 29,
-      "name": "Zepp",
-      "developer": "Zepp, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/pZcZu4czlvMK8Du5CAUOUVM8KuZtEQh3k62W3JxKw8oYJdF_UYjaJxqlWfB3eqELitHwftwvcZ4jIOtdAOXXsQ",
-      "rating": 4.4,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager"
-    },
-    {
-      "rank": 30,
-      "name": "F1 TV: Stream F1® Live",
-      "developer": "Formula One Digital Media Limited",
-      "icon": "https://play-lh.googleusercontent.com/Kg4W4Y8LIvMnqxu_JiNdxJmvWZ7DkZCxZ4QdCnmHATsLfD-fhUfvJLxgcUIzEcSIgBmkUVMbzf7o9BmfxtosRiU",
-      "rating": 4.5,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.formulaone.production"
-    },
-    {
-      "rank": 31,
-      "name": "Fitness Park",
-      "developer": "Fitness Park Group",
-      "icon": "https://play-lh.googleusercontent.com/jlK9we5IoftZiI7wYhO41LoEmF9VgtA__8R_bHPLWFIVUMxSFO5BAMcCFmsyqxNMQHUW81ffjy6XUvu4HqBK0Sw",
-      "rating": 4.1,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.fitnesspark.app.dromcom"
-    },
-    {
-      "rank": 32,
+      "rank": 28,
       "name": "Live Football TV HD Streaming",
       "developer": "abubakar nadeem",
       "icon": "https://play-lh.googleusercontent.com/QnmO2E1yqrP1z0REjE0CUWtdXvsWl89XiHRMDxDVWXoJg2ftrIq9Pbc_-Mt5I9nlrA2gawNcBJcg3RNQa81vYXI",
@@ -1196,43 +1160,25 @@
       "url": "https://play.google.com/store/apps/details?id=livefootballtv.livefootball.footballtv"
     },
     {
-      "rank": 33,
-      "name": "ONE Smart",
-      "developer": "Laser Worldwide Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/DdjI6En9E6o1LJt0lNcfXafDpOy8ypjAaXAL9PQywA5cDrCOjnRsCF-ThO1IMLFJXp__7zStKWb8w0lZQob0",
-      "rating": 3.9,
+      "rank": 29,
+      "name": "Football Score TV LIVE",
+      "developer": "Mohsin Dev Studios",
+      "icon": "https://play-lh.googleusercontent.com/2ovdqXioEaU877kNsCQM4byJ4GF_XD85cbTruyQuREylO0U9-qk-wC1XqFwMPIkoWHC_M2ZBHZGggmlomjy5CM8",
+      "rating": 3.4,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.crrepa.band.onesmart"
+      "url": "https://play.google.com/store/apps/details?id=com.footballlivescoretv.livefootballmatchesmohsinrd.footballlivescoretv"
     },
     {
-      "rank": 34,
-      "name": "Live Football TV HD Streaming",
-      "developer": "Bisa bisa",
-      "icon": "https://play-lh.googleusercontent.com/Rja1o5Ty5ZbD5co4YByITPswmQNb2vSAiyxS5Otgo-VgFauNoBMHd_Nb7OqarUxCtfMHmUfwEPBtDWFnZpG5OA",
-      "rating": 4.6,
+      "rank": 30,
+      "name": "Super Portistas: Tudo do Porto",
+      "developer": "Atlas Invencível",
+      "icon": "https://play-lh.googleusercontent.com/m2GJfMZ7zMsshThZe7eLydFNVP8MrSkBhc6inUriSnpFPrON9WBDeTPhRlJWDPgLCiKndHz8zHnnUq77wzmm",
+      "rating": 5,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.score.livefootball.tv"
+      "url": "https://play.google.com/store/apps/details?id=pt.superportistas.app"
     },
     {
-      "rank": 35,
-      "name": "Football Live TV HD",
-      "developer": "Deep Techlabs",
-      "icon": "https://play-lh.googleusercontent.com/kLK8HNxGRgp21YRb3Be-Q-5R2wdIsWre3ZN8zqQNfRoPrIu_dW2WxWOWzlPWx22yyBlN2fZm59wB3Hx1ZWJX9g",
-      "rating": 3.9,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.livefootballhdtv.hdstreamingfootball.deepforlive"
-    },
-    {
-      "rank": 36,
-      "name": "Live Football TV HD Streaming",
-      "developer": "Hercules Legacy",
-      "icon": "https://play-lh.googleusercontent.com/WlnHZMsxX725NyfMYiC5NvZl2UbYLucB5JnTYyuCVdmLTRbyJq8sfYykfOhjIkY4dXdOpFUm-Hjt-KJZ9Sbx9cY",
-      "rating": 4.8,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.live.football.hd.score.streaming.pro"
-    },
-    {
-      "rank": 37,
+      "rank": 31,
       "name": "Maratona do Porto",
       "developer": "TRACX",
       "icon": "https://play-lh.googleusercontent.com/HmDgMr4bRT41aYnRPTT6UW6B0ddL1WoJNa8s1V96jyhhVTTm-XCar3mBCQHFuxg2x-Wzj30N1Z9Q4e5xcREGeg",
@@ -1241,34 +1187,34 @@
       "url": "https://play.google.com/store/apps/details?id=com.mylaps.eventapp.maratonadoportoedp"
     },
     {
-      "rank": 38,
-      "name": "TifoLive: Football Scores",
-      "developer": "TRANSPORT HOSPITAL GAME",
-      "icon": "https://play-lh.googleusercontent.com/uVfbFdnI9S_b4W3JShSf8wbmp4LJpHM5CsDfCCLKVJ9HxSD5pAcf4gc7K7ifTc2AHVgI41uLjdOSlQddq47ifw",
-      "rating": null,
+      "rank": 32,
+      "name": "Canal 11",
+      "developer": "FPF",
+      "icon": "https://play-lh.googleusercontent.com/fuPHrqKQ33Q350IUYxy7c88wCVujEdsIy6HOWNZTDCzgdvzr1O5nggc6HcpCQX-1yxTGi-noio1p-X7cUWm2HA",
+      "rating": 3,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.t9livescore.tifo"
+      "url": "https://play.google.com/store/apps/details?id=pt.fpf.onze"
     },
     {
-      "rank": 39,
+      "rank": 33,
       "name": "Live Football TV HD Streaming",
-      "developer": "Qari akram",
-      "icon": "https://play-lh.googleusercontent.com/nfQ78FgRLLZ2bM-vRBXn9EQo7XlKjWc2xVJcsRyAUDnyOMwYbnYqnwvS7_yanZMNyY6etSTa368y7K4_EQFhl-0",
-      "rating": 4.6,
+      "developer": "Hercules Legacy",
+      "icon": "https://play-lh.googleusercontent.com/WlnHZMsxX725NyfMYiC5NvZl2UbYLucB5JnTYyuCVdmLTRbyJq8sfYykfOhjIkY4dXdOpFUm-Hjt-KJZ9Sbx9cY",
+      "rating": 4.8,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.tv.score.livefootball.hdstream"
+      "url": "https://play.google.com/store/apps/details?id=com.live.football.hd.score.streaming.pro"
     },
     {
-      "rank": 40,
-      "name": "FotMob - Soccer Live Scores",
-      "developer": "FotMob AS",
-      "icon": "https://play-lh.googleusercontent.com/uA97ujyyS5PtfLsJviTN7tW1vcSQgRoN_wM0IMEO3tzn_JUAJGGMv66YxSzPF5uiP2Ysjh_F9YZzknOwKrSS",
-      "rating": 4.9,
+      "rank": 34,
+      "name": "Football Live TV HD",
+      "developer": "Deep Techlabs",
+      "icon": "https://play-lh.googleusercontent.com/kLK8HNxGRgp21YRb3Be-Q-5R2wdIsWre3ZN8zqQNfRoPrIu_dW2WxWOWzlPWx22yyBlN2fZm59wB3Hx1ZWJX9g",
+      "rating": 3.9,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010"
+      "url": "https://play.google.com/store/apps/details?id=com.livefootballhdtv.hdstreamingfootball.deepforlive"
     },
     {
-      "rank": 41,
+      "rank": 35,
       "name": "sport tv",
       "developer": "Sport TV, SA",
       "icon": "https://play-lh.googleusercontent.com/L3WGqCeQ8-SD840MEJXeq9uPAwbFQVC9aCckvTvI8TdZuJLxdP2NUdqvFyjIcie3FAD2YLGteAjut_bIWO1CUnU",
@@ -1277,31 +1223,85 @@
       "url": "https://play.google.com/store/apps/details?id=pt.sporttv.app.androidtv"
     },
     {
-      "rank": 42,
-      "name": "SnapGoal: Football Live Scores",
-      "developer": "SnapGoal",
-      "icon": "https://play-lh.googleusercontent.com/C1l4kJpdnlyoKaCKsQFmVEQLN7I-3VAiAeCPtFJFFeb5zZ4idJQ1IhCxSszh_lMn-bgb24o7vC8alEIrSQnthA",
-      "rating": 4.1,
+      "rank": 36,
+      "name": "ONE Smart",
+      "developer": "Laser Worldwide Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/DdjI6En9E6o1LJt0lNcfXafDpOy8ypjAaXAL9PQywA5cDrCOjnRsCF-ThO1IMLFJXp__7zStKWb8w0lZQob0",
+      "rating": 3.9,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=scorebuzz.soccerlivescore.livesports.footballscore"
+      "url": "https://play.google.com/store/apps/details?id=com.crrepa.band.onesmart"
     },
     {
-      "rank": 43,
-      "name": "Football Live Scores & News",
-      "developer": "Messier31",
-      "icon": "https://play-lh.googleusercontent.com/IxFcJogeU8x3VaahhBdTvDOiaelGheW1Jnt6265SYL1gIrh2xGhd23ogI2xEKnPWEOLjPOmKjsLeNtwpcdiNAQ",
-      "rating": 4.1,
+      "rank": 37,
+      "name": "FotMob - Soccer Live Scores",
+      "developer": "FotMob AS",
+      "icon": "https://play-lh.googleusercontent.com/uA97ujyyS5PtfLsJviTN7tW1vcSQgRoN_wM0IMEO3tzn_JUAJGGMv66YxSzPF5uiP2Ysjh_F9YZzknOwKrSS",
+      "rating": 4.9,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.football.livescores.news"
+      "url": "https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010"
     },
     {
-      "rank": 44,
+      "rank": 38,
+      "name": "Fitness Park",
+      "developer": "Fitness Park Group",
+      "icon": "https://play-lh.googleusercontent.com/jlK9we5IoftZiI7wYhO41LoEmF9VgtA__8R_bHPLWFIVUMxSFO5BAMcCFmsyqxNMQHUW81ffjy6XUvu4HqBK0Sw",
+      "rating": 4.3,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.fitnesspark.app.dromcom"
+    },
+    {
+      "rank": 39,
       "name": "Uniscore - Live Sports Scores",
       "developer": "Unity Future Bright Sport Limited",
       "icon": "https://play-lh.googleusercontent.com/7dQQGgBpk6JLtRL9qN3Z7GFczec_fSA_QqQzzNHsqQAYSz1_-IhdwVmJdLDhV0hhHk8IoJhsVnXt9M0Ic2n2tHI",
       "rating": 4.3,
       "price": "Free",
       "url": "https://play.google.com/store/apps/details?id=com.unity.uniscore"
+    },
+    {
+      "rank": 40,
+      "name": "Live Football TV HD Streaming",
+      "developer": "Bisa bisa",
+      "icon": "https://play-lh.googleusercontent.com/Rja1o5Ty5ZbD5co4YByITPswmQNb2vSAiyxS5Otgo-VgFauNoBMHd_Nb7OqarUxCtfMHmUfwEPBtDWFnZpG5OA",
+      "rating": 4.6,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.score.livefootball.tv"
+    },
+    {
+      "rank": 41,
+      "name": "iOrienteering",
+      "developer": "iOrienteering.com",
+      "icon": "https://play-lh.googleusercontent.com/aHNqrAPrvR70pYeOqmqPFFbWFaHbRNPP-gldjFwO1N4GIG6pEqMuKW9QWjlXN-g0bclezIWZMWMxv8zX1IpclQ",
+      "rating": 3.7,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.iorienteering.mobile"
+    },
+    {
+      "rank": 42,
+      "name": "F1 TV: Stream F1® Live",
+      "developer": "Formula One Digital Media Limited",
+      "icon": "https://play-lh.googleusercontent.com/Kg4W4Y8LIvMnqxu_JiNdxJmvWZ7DkZCxZ4QdCnmHATsLfD-fhUfvJLxgcUIzEcSIgBmkUVMbzf7o9BmfxtosRiU",
+      "rating": 4.5,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.formulaone.production"
+    },
+    {
+      "rank": 43,
+      "name": "Live Sports Plus HD:Streming",
+      "developer": "Short-term Vacation Properties Ltd",
+      "icon": "https://play-lh.googleusercontent.com/XGDxjOdpeiUxmI7vf-0N71EzbGiB8V-KKRfyegtqZKq4ABKxKuCzu2MVf5Ts13faeezjq60mtp_3vCv1jqsLXw",
+      "rating": 4.9,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.stvpl.livefootbalstreaming"
+    },
+    {
+      "rank": 44,
+      "name": "Football Live Scores & News",
+      "developer": "Messier31",
+      "icon": "https://play-lh.googleusercontent.com/IxFcJogeU8x3VaahhBdTvDOiaelGheW1Jnt6265SYL1gIrh2xGhd23ogI2xEKnPWEOLjPOmKjsLeNtwpcdiNAQ",
+      "rating": 4.1,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.soccer.football.livescores.news"
     },
     {
       "rank": 45,
@@ -1314,51 +1314,6 @@
     },
     {
       "rank": 46,
-      "name": "Super Portistas: Tudo do Porto",
-      "developer": "Atlas Invencível",
-      "icon": "https://play-lh.googleusercontent.com/m2GJfMZ7zMsshThZe7eLydFNVP8MrSkBhc6inUriSnpFPrON9WBDeTPhRlJWDPgLCiKndHz8zHnnUq77wzmm",
-      "rating": 5,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=pt.superportistas.app"
-    },
-    {
-      "rank": 47,
-      "name": "Playtomic - Padel & pickleball",
-      "developer": "Playtomic S.L.",
-      "icon": "https://play-lh.googleusercontent.com/Rf3JqI4-qL0ij9c_KKndvL5mWAiJn_SCWzEDNlQ9Ug64ODYJeMG5lm3kvZtg1X0KQXw5x6r_hLc9QJSpGWKjOQ",
-      "rating": 4.8,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.playtomic"
-    },
-    {
-      "rank": 48,
-      "name": "Live Score - Football Scores",
-      "developer": "EasyAppDev 01",
-      "icon": "https://play-lh.googleusercontent.com/gjTCYO__B1m6Q6JlmhhlJDHcfOiWBiGUaDlsDywa6InydyYDLzbfBSvmv7m2RMdnyKZJNDm_2kj7rJ-KZ9mZCaA",
-      "rating": 4.4,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.football.livescore.sportmatch"
-    },
-    {
-      "rank": 49,
-      "name": "Live Sports Plus HD:Streming",
-      "developer": "Short-term Vacation Properties Ltd",
-      "icon": "https://play-lh.googleusercontent.com/XGDxjOdpeiUxmI7vf-0N71EzbGiB8V-KKRfyegtqZKq4ABKxKuCzu2MVf5Ts13faeezjq60mtp_3vCv1jqsLXw",
-      "rating": 4.9,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.stvpl.livefootbalstreaming"
-    },
-    {
-      "rank": 50,
-      "name": "Formula 1®",
-      "developer": "Formula One Digital Media Limited",
-      "icon": "https://play-lh.googleusercontent.com/GDOOeEk3tCMxYwj0dHVFQ6oJNJjullFtDFH2O2zOV96DL2WxJm7a9gdUu1aUeE6O7t8zi_xP0J_rKaMUYAfigw",
-      "rating": 3.7,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.softpauer.f1timingapp2014.basic"
-    },
-    {
-      "rank": 51,
       "name": "Live football TV",
       "developer": "Findy360 Software LLC",
       "icon": "https://play-lh.googleusercontent.com/w51SLQ19Qi5hV49edGS0J9Dsbk96dTGmzkoBJSwEJtGBvnrOGNUIkAWfTMx8FHYH2NUoV3JLfhajgXSvk7JGLBQ",
@@ -1367,43 +1322,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.widex.goalkolik"
     },
     {
-      "rank": 52,
-      "name": "New York Road Runners",
-      "developer": "New York Road Runners, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/69yTyjoDj-RIEAhIHz4rsT_t6fNTPX2Two44MtdV1GUxpyNRtCxWTzI084ANOuIbI3Kt9yCjVvHvOOHmThbC4A",
-      "rating": 4.3,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.tcs.nyrr"
-    },
-    {
-      "rank": 53,
-      "name": "TCG Card Scanner TCG Collector",
-      "developer": "Identifier Studio",
-      "icon": "https://play-lh.googleusercontent.com/fPuQ5s_o7IHYQswNGQyzypx1hoP8MmM4OO6SLqB17Z2cgP71PCFBF8irayFo84IXlqFwVRLuLFySJEDzRuDCdw",
-      "rating": 4.8,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.ai.tcg.card.scanner.collector.identifier.value.tracker.price.shop"
-    },
-    {
-      "rank": 54,
-      "name": "Benfica Play",
-      "developer": "SLBenfica",
-      "icon": "https://play-lh.googleusercontent.com/Fg9mKDBt5JR3tBfBGtQfeEZvSaPYCPQMIX_GsA4iRUVdJwD3ZqkneoD9c4YklOvpJc5bIQKjz53VH-RepwKZ2Q",
-      "rating": 4.1,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=pt.benficaplay.ott"
-    },
-    {
-      "rank": 55,
-      "name": "SWISH by NBN23",
-      "developer": "NBN23 SL",
-      "icon": "https://play-lh.googleusercontent.com/cdGC5dcu4GuMargHZVEK3UOuRGAljYZPo0fxmfWIliPq8E9y8FYB8ARwiciDWe78p7fjWYqq0A1RQKWig6Az",
-      "rating": 4,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.nbn23.fansapp"
-    },
-    {
-      "rank": 56,
+      "rank": 47,
       "name": "Live Sports Plus HD",
       "developer": "Lolo LLC",
       "icon": "https://play-lh.googleusercontent.com/gSoTGWzRT04zzCzWn3YHDuQghWje8hkm9XUYHt8T28qfEPzz0sGtBFbEzYb6R1cespeLkYUBxeqOHDeKRyBtZg",
@@ -1412,7 +1331,34 @@
       "url": "https://play.google.com/store/apps/details?id=com.dsportinglive.footbaalls"
     },
     {
-      "rank": 57,
+      "rank": 48,
+      "name": "Playtomic - Padel & pickleball",
+      "developer": "Playtomic S.L.",
+      "icon": "https://play-lh.googleusercontent.com/Rf3JqI4-qL0ij9c_KKndvL5mWAiJn_SCWzEDNlQ9Ug64ODYJeMG5lm3kvZtg1X0KQXw5x6r_hLc9QJSpGWKjOQ",
+      "rating": 4.8,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.playtomic"
+    },
+    {
+      "rank": 49,
+      "name": "SnapGoal: Football Live Scores",
+      "developer": "SnapGoal",
+      "icon": "https://play-lh.googleusercontent.com/C1l4kJpdnlyoKaCKsQFmVEQLN7I-3VAiAeCPtFJFFeb5zZ4idJQ1IhCxSszh_lMn-bgb24o7vC8alEIrSQnthA",
+      "rating": 4.1,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=scorebuzz.soccerlivescore.livesports.footballscore"
+    },
+    {
+      "rank": 50,
+      "name": "Live Football TV HD Streaming",
+      "developer": "Qari akram",
+      "icon": "https://play-lh.googleusercontent.com/nfQ78FgRLLZ2bM-vRBXn9EQo7XlKjWc2xVJcsRyAUDnyOMwYbnYqnwvS7_yanZMNyY6etSTa368y7K4_EQFhl-0",
+      "rating": 4.6,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.tv.score.livefootball.hdstream"
+    },
+    {
+      "rank": 51,
       "name": "Coldbet PremierLeague Fixtures",
       "developer": "Oro Alliance Apps",
       "icon": "https://play-lh.googleusercontent.com/8hkEozUP27Aio7ntOXeUEicrXhX1SrDNi_ZbZ4Y5lQmgAbH3F3ZixUuk3Epf7wVg3lkLjIC1Gr2Jq66i63TTng",
@@ -1421,25 +1367,16 @@
       "url": "https://play.google.com/store/apps/details?id=com.premierliga.sport.liga"
     },
     {
-      "rank": 58,
-      "name": "iOrienteering",
-      "developer": "iOrienteering.com",
-      "icon": "https://play-lh.googleusercontent.com/aHNqrAPrvR70pYeOqmqPFFbWFaHbRNPP-gldjFwO1N4GIG6pEqMuKW9QWjlXN-g0bclezIWZMWMxv8zX1IpclQ",
-      "rating": 3.7,
+      "rank": 52,
+      "name": "Live Score - Football Scores",
+      "developer": "EasyAppDev 01",
+      "icon": "https://play-lh.googleusercontent.com/gjTCYO__B1m6Q6JlmhhlJDHcfOiWBiGUaDlsDywa6InydyYDLzbfBSvmv7m2RMdnyKZJNDm_2kj7rJ-KZ9mZCaA",
+      "rating": 4.4,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.iorienteering.mobile"
+      "url": "https://play.google.com/store/apps/details?id=com.football.livescore.sportmatch"
     },
     {
-      "rank": 59,
-      "name": "Ginja",
-      "developer": "Tormax Danmark A/S",
-      "icon": "https://play-lh.googleusercontent.com/WdppLqVV7wtmXDO1xP156r66VhztzbQZGq-eGCBzQrR27nD3OMHA-w4kML8n0rlEx8xPewt9wo6VH7NGBKRzfQ",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.ginjamatch.app"
-    },
-    {
-      "rank": 60,
+      "rank": 53,
       "name": "Clubept",
       "developer": "Saturno.net",
       "icon": "https://play-lh.googleusercontent.com/Zwhx4-yBX5QSjEnnmq0dhfUfitBh-fYoLYTubf8tqFyO2r3LhdMzgkNmmPiVKoWnWEi8mOpr1MGq8qPcSOKuHKU",
@@ -1448,16 +1385,61 @@
       "url": "https://play.google.com/store/apps/details?id=pt.Clubept.ClubeptMobile"
     },
     {
-      "rank": 61,
-      "name": "Playstep+",
-      "developer": "Playstep",
-      "icon": "https://play-lh.googleusercontent.com/-P4VubiNRg6o3tbko5tpPEMKLwJWANzgTw7OBnAx3EVFz3vimcW_SfEvJ3mtSatbKFgCS5oMF9HKVBObprVgfw",
-      "rating": null,
+      "rank": 54,
+      "name": "Spond: Sports Team Management",
+      "developer": "Spond AS",
+      "icon": "https://play-lh.googleusercontent.com/NAwfIkef3XB2Pv8GFtdKSY_qIc1f5kp8dLxEGZE8u78bkpg9AwobYdbAP2E--4s0863fbQHRFf0UJbuO4uQ6xw",
+      "rating": 4.6,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.playstepportugal.app"
+      "url": "https://play.google.com/store/apps/details?id=com.spond.spond"
     },
     {
-      "rank": 62,
+      "rank": 55,
+      "name": "TCG Card Scanner TCG Collector",
+      "developer": "Identifier Studio",
+      "icon": "https://play-lh.googleusercontent.com/fPuQ5s_o7IHYQswNGQyzypx1hoP8MmM4OO6SLqB17Z2cgP71PCFBF8irayFo84IXlqFwVRLuLFySJEDzRuDCdw",
+      "rating": 4.8,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.ai.tcg.card.scanner.collector.identifier.value.tracker.price.shop"
+    },
+    {
+      "rank": 56,
+      "name": "Formula 1®",
+      "developer": "Formula One Digital Media Limited",
+      "icon": "https://play-lh.googleusercontent.com/GDOOeEk3tCMxYwj0dHVFQ6oJNJjullFtDFH2O2zOV96DL2WxJm7a9gdUu1aUeE6O7t8zi_xP0J_rKaMUYAfigw",
+      "rating": 3.7,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.softpauer.f1timingapp2014.basic"
+    },
+    {
+      "rank": 57,
+      "name": "Ten Sports - Live Scores",
+      "developer": "YNU3 U-STUDIOS LLC",
+      "icon": "https://play-lh.googleusercontent.com/ncBWu1uNJk81snyVsrMGQEmuxk4VXjBpNybLi4dCwk7qEcs_vS3kMD9qOG2rQhxvnZckH4dkiaPn_uAMm2d5ATU",
+      "rating": null,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.tensportlivehdlivetenfoutballsports.sportstenhdlivetensportseteenlivehdlive"
+    },
+    {
+      "rank": 58,
+      "name": "futebol brasileiro AO VIVO",
+      "developer": "OR-Player",
+      "icon": "https://play-lh.googleusercontent.com/6CnzD_vY5jYXtKs9XtEbmDlF2ibYVWHosX5LXLnsVXUPypQrJUpLJBfdzvD_WMnRtzbQpopTvFkt9HGWlwPmrg",
+      "rating": null,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.futebol.life.br.envivo"
+    },
+    {
+      "rank": 59,
+      "name": "Benfica Play",
+      "developer": "SLBenfica",
+      "icon": "https://play-lh.googleusercontent.com/Fg9mKDBt5JR3tBfBGtQfeEZvSaPYCPQMIX_GsA4iRUVdJwD3ZqkneoD9c4YklOvpJc5bIQKjz53VH-RepwKZ2Q",
+      "rating": 4.1,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=pt.benficaplay.ott"
+    },
+    {
+      "rank": 60,
       "name": "Futemax Futebol daHora Ao Vivo",
       "developer": "devmovn",
       "icon": "https://play-lh.googleusercontent.com/c-I3mw9qUloc6Ss5svo_XOG4PtI3XtNaSzyQw4AoXwulumybpzkXc7063QHbe7QGOqBGfBa0-m50FbddoVaHKw",
@@ -1466,22 +1448,40 @@
       "url": "https://play.google.com/store/apps/details?id=com.futaxrztrabz.ghatbi"
     },
     {
-      "rank": 63,
-      "name": "Live Football TV Sports",
-      "developer": "CBAY Production",
-      "icon": "https://play-lh.googleusercontent.com/Rnym2ImF-Nsh6ETGk7PzANh5J6YIehp6tI4VHs03XRlH49bBCmIUtV80xdN5UTEmXvJVTnts4rFADlVxnEy6",
-      "rating": 3.5,
+      "rank": 61,
+      "name": "Ginja",
+      "developer": "Tormax Danmark A/S",
+      "icon": "https://play-lh.googleusercontent.com/WdppLqVV7wtmXDO1xP156r66VhztzbQZGq-eGCBzQrR27nD3OMHA-w4kML8n0rlEx8xPewt9wo6VH7NGBKRzfQ",
+      "rating": null,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.cbayproduction.livefootball.app"
+      "url": "https://play.google.com/store/apps/details?id=com.ginjamatch.app"
     },
     {
-      "rank": 64,
+      "rank": 62,
+      "name": "SWISH by NBN23",
+      "developer": "NBN23 SL",
+      "icon": "https://play-lh.googleusercontent.com/cdGC5dcu4GuMargHZVEK3UOuRGAljYZPo0fxmfWIliPq8E9y8FYB8ARwiciDWe78p7fjWYqq0A1RQKWig6Az",
+      "rating": 4,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.nbn23.fansapp"
+    },
+    {
+      "rank": 63,
       "name": "Fishing Points - Fishing App",
       "developer": "Fishing Points d.o.o.",
       "icon": "https://play-lh.googleusercontent.com/pF_Dtku6wCQdQpV0jpPdxnHuxqW4ks31qZfIQm6B2QYit7nEfsTbvP4_9-d-owcP7nAYlxnTyHPRDbu_H-tM5A",
       "rating": 4.6,
       "price": "Free",
       "url": "https://play.google.com/store/apps/details?id=com.gregacucnik.fishingpoints"
+    },
+    {
+      "rank": 64,
+      "name": "Live Football TV Sports",
+      "developer": "CBAY Production",
+      "icon": "https://play-lh.googleusercontent.com/Rnym2ImF-Nsh6ETGk7PzANh5J6YIehp6tI4VHs03XRlH49bBCmIUtV80xdN5UTEmXvJVTnts4rFADlVxnEy6",
+      "rating": 3.5,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.cbayproduction.livefootball.app"
     },
     {
       "rank": 65,
@@ -1494,15 +1494,6 @@
     },
     {
       "rank": 66,
-      "name": "Spond: Sports Team Management",
-      "developer": "Spond AS",
-      "icon": "https://play-lh.googleusercontent.com/NAwfIkef3XB2Pv8GFtdKSY_qIc1f5kp8dLxEGZE8u78bkpg9AwobYdbAP2E--4s0863fbQHRFf0UJbuO4uQ6xw",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.spond.spond"
-    },
-    {
-      "rank": 67,
       "name": "Salina Football Sports",
       "developer": "Salina App Studio",
       "icon": "https://play-lh.googleusercontent.com/VCRzDu9KeCEHiRNQDlLohmwl01MdPbBPqtvEuQtTB0PyL5Ca49Ee-WKf4F0HhnylHwSl8y4J5ge0iM4-j4qEIA",
@@ -1511,16 +1502,16 @@
       "url": "https://play.google.com/store/apps/details?id=com.salinastudio.live.cricket.tv"
     },
     {
-      "rank": 68,
-      "name": "SC Braga App Oficial",
-      "developer": "webook.com",
-      "icon": "https://play-lh.googleusercontent.com/lsS84rvalRaGOPjqopJNL43Bl_3LBgLjwMLN5mqmKBtBZnLioTbLZ9lmmd3Ew2GpQa0-FDt9HsFgZVz1w8slFw",
+      "rank": 67,
+      "name": "Maia Desporto",
+      "developer": "SINCELO",
+      "icon": "https://play-lh.googleusercontent.com/jXoJpRc1xTrKJuQ7VP8UsIBT6on2DvFU1bvZIbqWRv-RBagYsFgeqsrvDiPD_R3odYeRSX80eMY0G31NSptBPg",
       "rating": 4.1,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.webook.scbraga"
+      "url": "https://play.google.com/store/apps/details?id=pt.sincelo.maia"
     },
     {
-      "rank": 69,
+      "rank": 68,
       "name": "Soccer Scores: OneFootball",
       "developer": "Onefootball GmbH",
       "icon": "https://play-lh.googleusercontent.com/YiWhQjmhW6376NzXq_X2I9ORF99n76yFnYZZGDGaqOPMYopp-EGsQYSt8Z6SAd1qqG2NLutE6kniYE5EXoosbxg",
@@ -1529,79 +1520,7 @@
       "url": "https://play.google.com/store/apps/details?id=de.motain.iliga"
     },
     {
-      "rank": 70,
-      "name": "Football Pulse: LaLiga Score",
-      "developer": "Appbotics Lab",
-      "icon": "https://play-lh.googleusercontent.com/CPZwwHBO7eA2kNMYZRa1_EydY7Uo40LY2JO8iXPeHDdbwydwe_PQtOvaA5YaTPU47d2bQyaEyfDmKByKYjafeg",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.abl.footballpulse"
-    },
-    {
-      "rank": 71,
-      "name": "ESPN",
-      "developer": "Disney",
-      "icon": "https://play-lh.googleusercontent.com/XIEJt2LPHOV3O2cSEw7vbPGY0phcSY9CNeBj9GI8LvvlQoATs6iC6t7bU5tMk9nBduJXaNIp-J39j0D51fJw",
-      "rating": 4,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.espn.score_center"
-    },
-    {
-      "rank": 72,
-      "name": "Ten Sports - Live Scores",
-      "developer": "YNU3 U-STUDIOS LLC",
-      "icon": "https://play-lh.googleusercontent.com/ncBWu1uNJk81snyVsrMGQEmuxk4VXjBpNybLi4dCwk7qEcs_vS3kMD9qOG2rQhxvnZckH4dkiaPn_uAMm2d5ATU",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.tensportlivehdlivetenfoutballsports.sportstenhdlivetensportseteenlivehdlive"
-    },
-    {
-      "rank": 73,
-      "name": "VERSUSbet",
-      "developer": "VERSUS ONLINE",
-      "icon": "https://play-lh.googleusercontent.com/CLypr9P2I3kMvljF2MEhYceJWZG71hU1KVd3Av4pM_qPNuqG9Y2qijgIm6Sh1fsKPTyI5dmyCFX2pWxKpe4ijQ",
-      "rating": 3.6,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.orenescore.versusbetpt"
-    },
-    {
-      "rank": 74,
-      "name": "Liga Portugal",
-      "developer": "Liga Portugal",
-      "icon": "https://play-lh.googleusercontent.com/pf0PDnQf02NsU-LNjvpKAJxLl0v1AHQ8xc8enDIHXHmPOU-vvTyoNmSSU7jKqYQluBBuBCPR5Vx3-vgqxkTqMg",
-      "rating": 4.5,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=pt.vsports.client"
-    },
-    {
-      "rank": 75,
-      "name": "Live Football TV HD",
-      "developer": "Clement Dunstan Siaffu",
-      "icon": "https://play-lh.googleusercontent.com/1LXk2DvlOywJ0AjTOhY_sM3pdleCsyx5lnSTc2HY00EHHR7tYU-4gg8_dWbzIkVjbmQ4D-GUTkqfgWXdxrTd",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.cricfy.worldcup"
-    },
-    {
-      "rank": 76,
-      "name": "LiveScore: Live Sports Scores",
-      "developer": "LiveScore Limited",
-      "icon": "https://play-lh.googleusercontent.com/143fvnWCsd-0dOJVSJTmYo9dG_1Xk6fEHwvzteUVMRyYiXCOlG5v3oCohG-VkHdNtNPWQf30CK6Si3VDGDY4Sg",
-      "rating": 4.6,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.livescore"
-    },
-    {
-      "rank": 77,
-      "name": "Padelteams",
-      "developer": "António Fernandes",
-      "icon": "https://play-lh.googleusercontent.com/p7TmBlYp2QyvQqBWXi1FGf2m0RNoYXhV9ssmRtl4E8p1mZx02W0IX2QU3Wu5oCaNWltLbmGjjkaeHHZidUS1Lg",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.zebrabinaria.padelteams"
-    },
-    {
-      "rank": 78,
+      "rank": 69,
       "name": "11XScore AI Football",
       "developer": "HRY Apps",
       "icon": "https://play-lh.googleusercontent.com/iJxtvhybM0Itw-RvmWDwr2XyLgDvcn9anpf2Zx64Xd-aMni-kDgLjnSvgC8IvlKe3uiucU-K5pRcfZ7jMWsEiNo",
@@ -1610,16 +1529,16 @@
       "url": "https://play.google.com/store/apps/details?id=com.scorecast.ai"
     },
     {
-      "rank": 79,
-      "name": "CSFC: Pickup Football",
-      "developer": "CORE STREET FOOTBALL COMMUNITY, LDA",
-      "icon": "https://play-lh.googleusercontent.com/GT7unVXGFwfD5KuL41Bn9F9b7Pv7OJG-l4tcjqE89TyfWsMQ_BGgWNLzqhydC5dlm3RN3YAcP7C4DkcQcwttKWs",
+      "rank": 70,
+      "name": "Padelteams",
+      "developer": "António Fernandes",
+      "icon": "https://play-lh.googleusercontent.com/p7TmBlYp2QyvQqBWXi1FGf2m0RNoYXhV9ssmRtl4E8p1mZx02W0IX2QU3Wu5oCaNWltLbmGjjkaeHHZidUS1Lg",
       "rating": null,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.csfc.mobile"
+      "url": "https://play.google.com/store/apps/details?id=com.zebrabinaria.padelteams"
     },
     {
-      "rank": 80,
+      "rank": 71,
       "name": "Premier League - Scores, News",
       "developer": "The Football Association Premier League Ltd",
       "icon": "https://play-lh.googleusercontent.com/gvlKi4GfJUgLh6HaVbM1wz_55NVngbs1Icn4t9oDzXIyxSLiT3401TrjAJNpeJs7mKtg1Tm2yTDFv_-mkWxh",
@@ -1628,7 +1547,34 @@
       "url": "https://play.google.com/store/apps/details?id=com.pl.premierleague"
     },
     {
-      "rank": 81,
+      "rank": 72,
+      "name": "LiveScore: Live Sports Scores",
+      "developer": "LiveScore Limited",
+      "icon": "https://play-lh.googleusercontent.com/143fvnWCsd-0dOJVSJTmYo9dG_1Xk6fEHwvzteUVMRyYiXCOlG5v3oCohG-VkHdNtNPWQf30CK6Si3VDGDY4Sg",
+      "rating": 4.6,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.livescore"
+    },
+    {
+      "rank": 73,
+      "name": "ESPN",
+      "developer": "Disney",
+      "icon": "https://play-lh.googleusercontent.com/XIEJt2LPHOV3O2cSEw7vbPGY0phcSY9CNeBj9GI8LvvlQoATs6iC6t7bU5tMk9nBduJXaNIp-J39j0D51fJw",
+      "rating": 4,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.espn.score_center"
+    },
+    {
+      "rank": 74,
+      "name": "Football Pulse: LaLiga Score",
+      "developer": "Appbotics Lab",
+      "icon": "https://play-lh.googleusercontent.com/CPZwwHBO7eA2kNMYZRa1_EydY7Uo40LY2JO8iXPeHDdbwydwe_PQtOvaA5YaTPU47d2bQyaEyfDmKByKYjafeg",
+      "rating": null,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.abl.footballpulse"
+    },
+    {
+      "rank": 75,
       "name": "MatchWornShirt",
       "developer": "MatchWornShirt",
       "icon": "https://play-lh.googleusercontent.com/FYxdeFFjiO-_bJ2iARpf4v3v2Nr1dZWodMLx1QwJrTY1Hs6QTu7Qr1fabspidZ6Bn9nO1r2vL3ooLaEDbFo-vA",
@@ -1637,16 +1583,16 @@
       "url": "https://play.google.com/store/apps/details?id=com.matchwornshirt.app"
     },
     {
-      "rank": 82,
-      "name": "Resultados Andebol Portugal",
-      "developer": "Federação de Andebol de Portugal",
-      "icon": "https://play-lh.googleusercontent.com/eZRy3xarKaD8moVJ0mGzj78sbVQg0JgYJsehfT53ohkh8cZgmNiOd8-dGFORXq3_2tclIXZhRe3CKjW2tvnvvA",
-      "rating": 3.3,
+      "rank": 76,
+      "name": "Premiere: Jogos ao vivo",
+      "developer": "Globo Comunicação e Participações S.A.",
+      "icon": "https://play-lh.googleusercontent.com/c8oUmNDOyl_DLj3DhoYOwZDLv9lBdW-apRzacrgFttoNi712E1DdpCxKh3pcl6GoAutW6qSWAhF-FaSSFmOoRA",
+      "rating": 3.4,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=pt.fpa.resultadosandebol"
+      "url": "https://play.google.com/store/apps/details?id=br.tv.horizonte.android.premierefc"
     },
     {
-      "rank": 83,
+      "rank": 77,
       "name": "Football Live TV HD",
       "developer": "TV Sports Zone",
       "icon": "https://play-lh.googleusercontent.com/wKJPVGsl5ZnD8ev_FsUUaSFuUY3C1pug1QTkesKbhrQLT5vGKhewyEsX5u4YSG-JsRrFUQLq7dDhgcCH2Nemcg",
@@ -1655,34 +1601,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.tsportszone.footballtvhd"
     },
     {
-      "rank": 84,
-      "name": "Live Score: Football Result",
-      "developer": "Monkey AI Studio",
-      "icon": "https://play-lh.googleusercontent.com/anDdBq6bQ5ONj6PoJqTTep3b3kcpmy3uWWWyhL8CWvq3NS6L8IPn5_JwRQFgpXAo__3lJ2z35FNwBtktww0-",
-      "rating": 4.3,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=live.score.football.result.live"
-    },
-    {
-      "rank": 85,
-      "name": "Football Live TV HD",
-      "developer": "My App Town",
-      "icon": "https://play-lh.googleusercontent.com/Scfh3wwJygMKriRYtRF3SB181fa4O5ZbWglW7h8131ZB1LBYLku1O2mI2XSIWIOHrc-DDvndqMP9Sw4Gpib2xQ",
-      "rating": 3.6,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.livefootballtvhd.mytownhdfootball.footballlivetvhd"
-    },
-    {
-      "rank": 86,
-      "name": "Live Football TV Streaming HD",
-      "developer": "CricPrime - Prime Cricket Update",
-      "icon": "https://play-lh.googleusercontent.com/tP9_NIu5-bjlU9hsZRcZKqnPKZ2z-TQwiqgGaT17MK9HB-tqfQTx_-WbSjVcVv--8RdRspJhKrWK-nS2NG_q",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.elite.vision.football.glaxy"
-    },
-    {
-      "rank": 87,
+      "rank": 78,
       "name": "Live Football Stream HD Score",
       "developer": "Probe Studio",
       "icon": "https://play-lh.googleusercontent.com/t8-Hl8lcS9eCYTi0EHcyXvshGGedQc3laXCv9rNUhu1bmtn74ErNA6aVTcVcdyAUHbph5kMHDG91fQbbJ-usaA",
@@ -1691,13 +1610,94 @@
       "url": "https://play.google.com/store/apps/details?id=com.live.football.stream.hdscore.freewatch"
     },
     {
-      "rank": 88,
-      "name": "180Score Football Predictions",
-      "developer": "4GROW LTD",
-      "icon": "https://play-lh.googleusercontent.com/8DfweHr6JkXdHcUIJs2hRo8fdIUqfft7YOY1fFGBBldFvqyH-pRVhRU6BuofWxbVTpZiZjnj4FEL5QKO64CZzw",
+      "rank": 79,
+      "name": "New York Road Runners",
+      "developer": "New York Road Runners, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/69yTyjoDj-RIEAhIHz4rsT_t6fNTPX2Two44MtdV1GUxpyNRtCxWTzI084ANOuIbI3Kt9yCjVvHvOOHmThbC4A",
       "rating": 4.3,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.grow.score"
+      "url": "https://play.google.com/store/apps/details?id=com.tcs.nyrr"
+    },
+    {
+      "rank": 80,
+      "name": "Live Football TV Streaming HD",
+      "developer": "CricPrime - Prime Cricket Update",
+      "icon": "https://play-lh.googleusercontent.com/tP9_NIu5-bjlU9hsZRcZKqnPKZ2z-TQwiqgGaT17MK9HB-tqfQTx_-WbSjVcVv--8RdRspJhKrWK-nS2NG_q",
+      "rating": null,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.elite.vision.football.glaxy"
+    },
+    {
+      "rank": 81,
+      "name": "CSFC: Pickup Football",
+      "developer": "CORE STREET FOOTBALL COMMUNITY, LDA",
+      "icon": "https://play-lh.googleusercontent.com/GT7unVXGFwfD5KuL41Bn9F9b7Pv7OJG-l4tcjqE89TyfWsMQ_BGgWNLzqhydC5dlm3RN3YAcP7C4DkcQcwttKWs",
+      "rating": null,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.csfc.mobile"
+    },
+    {
+      "rank": 82,
+      "name": "VERSUSbet",
+      "developer": "VERSUS ONLINE",
+      "icon": "https://play-lh.googleusercontent.com/CLypr9P2I3kMvljF2MEhYceJWZG71hU1KVd3Av4pM_qPNuqG9Y2qijgIm6Sh1fsKPTyI5dmyCFX2pWxKpe4ijQ",
+      "rating": 3.6,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.orenescore.versusbetpt"
+    },
+    {
+      "rank": 83,
+      "name": "Liga Portugal",
+      "developer": "Liga Portugal",
+      "icon": "https://play-lh.googleusercontent.com/pf0PDnQf02NsU-LNjvpKAJxLl0v1AHQ8xc8enDIHXHmPOU-vvTyoNmSSU7jKqYQluBBuBCPR5Vx3-vgqxkTqMg",
+      "rating": 4.5,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=pt.vsports.client"
+    },
+    {
+      "rank": 84,
+      "name": "Orira",
+      "developer": "Daniel Romão Leal",
+      "icon": "https://play-lh.googleusercontent.com/5vz6sjwGPBu_D2BM_1TVgjGMLWfuC0Ka3OJ6ebJKI743AGdIb5p59LlHrbkx2pfpaeypz2kZF3pa8HQH6r3P",
+      "rating": null,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=app.orira"
+    },
+    {
+      "rank": 85,
+      "name": "Playstep+",
+      "developer": "Playstep",
+      "icon": "https://play-lh.googleusercontent.com/-P4VubiNRg6o3tbko5tpPEMKLwJWANzgTw7OBnAx3EVFz3vimcW_SfEvJ3mtSatbKFgCS5oMF9HKVBObprVgfw",
+      "rating": null,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.playstepportugal.app"
+    },
+    {
+      "rank": 86,
+      "name": "Football Live TV HD",
+      "developer": "My App Town",
+      "icon": "https://play-lh.googleusercontent.com/Scfh3wwJygMKriRYtRF3SB181fa4O5ZbWglW7h8131ZB1LBYLku1O2mI2XSIWIOHrc-DDvndqMP9Sw4Gpib2xQ",
+      "rating": 3.6,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.livefootballtvhd.mytownhdfootball.footballlivetvhd"
+    },
+    {
+      "rank": 87,
+      "name": "Live Score: Football Result",
+      "developer": "Monkey AI Studio",
+      "icon": "https://play-lh.googleusercontent.com/anDdBq6bQ5ONj6PoJqTTep3b3kcpmy3uWWWyhL8CWvq3NS6L8IPn5_JwRQFgpXAo__3lJ2z35FNwBtktww0-",
+      "rating": 4.3,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=live.score.football.result.live"
+    },
+    {
+      "rank": 88,
+      "name": "SC Braga App Oficial",
+      "developer": "webook.com",
+      "icon": "https://play-lh.googleusercontent.com/lsS84rvalRaGOPjqopJNL43Bl_3LBgLjwMLN5mqmKBtBZnLioTbLZ9lmmd3Ew2GpQa0-FDt9HsFgZVz1w8slFw",
+      "rating": 4.1,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.webook.scbraga"
     },
     {
       "rank": 89,
@@ -1710,6 +1710,51 @@
     },
     {
       "rank": 90,
+      "name": "ScoreDeck: Live Football Score",
+      "developer": "Trusted Android App",
+      "icon": "https://play-lh.googleusercontent.com/t7N7d06QlE8kGXMXyG1US4F49Se5_NdlHpLXzq4MCFIM3rDjE1UMuxva6TbZaUaaUOeb7QHCY4yMDFPYBSYS",
+      "rating": null,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.scoredeck.football"
+    },
+    {
+      "rank": 91,
+      "name": "MyGol - Soccer Competitions",
+      "developer": "TSM Group",
+      "icon": "https://play-lh.googleusercontent.com/1Hlj4ocokA6fitKPzxij3CZlGFChDByeN0YtXBoZ2iBYIdvDX8lW7oRYiBP4XSdyqIB0y2H_Yo4VxQLRTRzC",
+      "rating": 4.3,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=es.tsmgroup.mygol.player"
+    },
+    {
+      "rank": 92,
+      "name": "Live Football TV HD",
+      "developer": "Clement Dunstan Siaffu",
+      "icon": "https://play-lh.googleusercontent.com/1LXk2DvlOywJ0AjTOhY_sM3pdleCsyx5lnSTc2HY00EHHR7tYU-4gg8_dWbzIkVjbmQ4D-GUTkqfgWXdxrTd",
+      "rating": null,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.cricfy.worldcup"
+    },
+    {
+      "rank": 93,
+      "name": "Live Football TV HD 2026",
+      "developer": "INNOVATIVE PRIVATE LIMITED",
+      "icon": "https://play-lh.googleusercontent.com/CxD9FNZUAi6W_eokzuzaboyqXOsQBiEF7cNxoQioeijmzqHpSnCG7EkNqnCJ1-5XIG09nIE5WR-FiCS7F6A",
+      "rating": 4.6,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.score.livefootball.hdtv.streaming"
+    },
+    {
+      "rank": 94,
+      "name": "180Score Football Predictions",
+      "developer": "4GROW LTD",
+      "icon": "https://play-lh.googleusercontent.com/8DfweHr6JkXdHcUIJs2hRo8fdIUqfft7YOY1fFGBBldFvqyH-pRVhRU6BuofWxbVTpZiZjnj4FEL5QKO64CZzw",
+      "rating": 4.3,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.grow.score"
+    },
+    {
+      "rank": 95,
       "name": "Football Live Scores",
       "developer": "Football Live Scores",
       "icon": "https://play-lh.googleusercontent.com/Gig-jFDLxWPydqcJL7wv6k35_ACR-8d5VapcvU-nApTdgRzFzqInwKmImPFkStUfZflLdNcLKRTHLMlKNAmKrw",
@@ -1718,34 +1763,25 @@
       "url": "https://play.google.com/store/apps/details?id=com.codehaha.football"
     },
     {
-      "rank": 91,
-      "name": "Maia Desporto",
-      "developer": "SINCELO",
-      "icon": "https://play-lh.googleusercontent.com/jXoJpRc1xTrKJuQ7VP8UsIBT6on2DvFU1bvZIbqWRv-RBagYsFgeqsrvDiPD_R3odYeRSX80eMY0G31NSptBPg",
-      "rating": 4.1,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=pt.sincelo.maia"
-    },
-    {
-      "rank": 92,
-      "name": "Kiss my Score - Fantasy League",
-      "developer": "Kiss my Score",
-      "icon": "https://play-lh.googleusercontent.com/CwPKfZo0dPdxfWTISvOqyjssc3mK9JZ-zI5DJguXSWJ9xkbB6fltBwSXGDyvugWE0bQm7odZDPTqp4dhBvaNCNw",
-      "rating": 4.2,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.builduplabs.kissmyscore"
-    },
-    {
-      "rank": 93,
-      "name": "Live Scores: Football Match",
-      "developer": "SCTV Digital",
-      "icon": "https://play-lh.googleusercontent.com/lNBHVpm40rfjEAUW9rXf_C1YTQZs9DMwre_v2eGspGqXKcfK6KoHsZPKUQwhdmfh3Y1IPm2-WWl16ZU6G3o017U",
+      "rank": 96,
+      "name": "Live Football TV HD Streaming",
+      "developer": "Tikevx Buitroa",
+      "icon": "https://play-lh.googleusercontent.com/y1uhxOPZHo3q8ufFKfRTEC-YDMcUApQFAWvC0NFT7Hq7jl8cQCFNcNxaNhE-SRHfwVPEOre8Yh4cZnrBUA7BeyM",
       "rating": 4.5,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.football.live.scores.match.soccer"
+      "url": "https://play.google.com/store/apps/details?id=tb.soccer.livefootballtv.hdstreaming"
     },
     {
-      "rank": 94,
+      "rank": 97,
+      "name": "UEFA.tv",
+      "developer": "UEFA",
+      "icon": "https://play-lh.googleusercontent.com/cEYCrONLwKcTBVcW15zXMpgSpsStxfyXGnBznKADyY_xY-5ydUZqxhcziRRCKvQ_CYcNFtVEsXFkbj2yOc3jnA",
+      "rating": 3.9,
+      "price": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.uefa.uefatv"
+    },
+    {
+      "rank": 98,
       "name": "Fútbol Emotion",
       "developer": "Sports Emotion",
       "icon": "https://play-lh.googleusercontent.com/3gUPFD1lP71BpSR6sZyzy7euUoShawxN4_G-dUPybv80OENhyi8Cz7XBoH4zsJOq_i07FDjmQwgvwYzwfUSd-g",
@@ -1754,7 +1790,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.soloporteros.futbolemotion"
     },
     {
-      "rank": 95,
+      "rank": 99,
       "name": "Phive",
       "developer": "Arquivandus",
       "icon": "https://play-lh.googleusercontent.com/5xOqthrbEhEBKr_pr0S3iFJElKJho6N5ovi2yxlRT-6U-jZrShwcVtd9F_UrMz3v-4J-g4hhi1tfziaAACxdJf0",
@@ -1763,49 +1799,13 @@
       "url": "https://play.google.com/store/apps/details?id=pt.sportstudio.phive"
     },
     {
-      "rank": 96,
-      "name": "Live Sports TV Streaming",
-      "developer": "Short-term Vacation Properties Ltd",
-      "icon": "https://play-lh.googleusercontent.com/1_csQ9sZIW1-6qITT19tmfj8iSm1ArMAEk1R2DpM4pCIZ7RzBinjfDsxzgs_8xDZaXMwS-pjW0Dt8cd75xUqsg",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.tehzeeb.livesports.tv.hd"
-    },
-    {
-      "rank": 97,
-      "name": "Live Football TV: HD Streaming",
-      "developer": "Tikevx Buitroa",
-      "icon": "https://play-lh.googleusercontent.com/azjAKbXvW9POoLgSxCe4PSuXL_Mtf0a4hOe6gwXrr5ipX1ZDrRSiZFGrMazaf9YetZKJj-R6u-xLVljdTUsrJw",
-      "rating": null,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.soccer.livefootball.tv.hdstreaming"
-    },
-    {
-      "rank": 98,
-      "name": "AiScore - Live Sports Scores",
-      "developer": "AiScore Sports",
-      "icon": "https://play-lh.googleusercontent.com/gGNfVnKkQgdX3pWzXQpnMcdVsJaNtYMTxJ8Ad8IFyiJqJGEd0v-DgVhdf6Wgje-DJJrGorMlt2KTzsPny4gQ",
-      "rating": 3.8,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.onesports.score"
-    },
-    {
-      "rank": 99,
-      "name": "Maisfutebol",
-      "developer": "Media Capital",
-      "icon": "https://play-lh.googleusercontent.com/pW4HxGD93p0O240qt86WaKlPgVA1l8Sm13iCEmKFSOtRDR0lfkiWwfugvF8S9C6xX1WlRp7GVIr_EQAUNzwsHw",
-      "rating": 3.8,
-      "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=pt.iol.maisfutebol.android"
-    },
-    {
       "rank": 100,
-      "name": "SportzX TV",
-      "developer": "InsideZone",
-      "icon": "https://play-lh.googleusercontent.com/GWN6adwhbVrulnQLm8aruSET3uCpoK9jIwa8Fanv6X0aF2pHtJQLIrW1N8jcBai8ZqdGqgfnK3vU8xJjRHfKVw",
-      "rating": null,
+      "name": "Resultados Andebol Portugal",
+      "developer": "Federação de Andebol de Portugal",
+      "icon": "https://play-lh.googleusercontent.com/eZRy3xarKaD8moVJ0mGzj78sbVQg0JgYJsehfT53ohkh8cZgmNiOd8-dGFORXq3_2tclIXZhRe3CKjW2tvnvvA",
+      "rating": 3.3,
       "price": "Free",
-      "url": "https://play.google.com/store/apps/details?id=com.sportzxtv.luvefootball"
+      "url": "https://play.google.com/store/apps/details?id=pt.fpa.resultadosandebol"
     }
   ]
 }
